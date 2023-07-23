@@ -1,0 +1,23 @@
+route_id,route_short_name,route_long_name,route_type
+1,008,Gus Young / BRCC,3
+2,010,Scenic Hwy. / Southern Univ.,3
+3,011,Northside Circulator,3
+4,012,Government St. / Jefferson Hwy.,3
+5,014,Thomas Delpit Dr.,3
+7,017,Perkins Rd. - Mall of Louisiana,3
+8,018,LSU - Cortana Mall,3
+9,020,North Acadian Throughway,3
+10,021,Fairfields Ave. - Cortana Mall,3
+11,022,Winbourne Ave. - Cortana Mall,3
+12,023,Foster Dr.,3
+13,041,Plank Rd.,3
+14,044,Florida Blvd. - Cortana Mall,3
+15,046,Cortana/Gardere/L'Auberge,3
+16,047,Highland Rd.,3
+19,054,Airline Hwy. North / Southern Univ.,3
+22,057,Sherwood Forest Blvd.,3
+23,058,Coursey Blvd. / O'Neal Ln.,3
+24,059,East Florida Blvd. / O'Neal Ln.,3
+25,060,Medical Circulator,3
+26,070,Baker /Southern Univ. / CATS Terminal,3
+32,015,Blount Rd,3

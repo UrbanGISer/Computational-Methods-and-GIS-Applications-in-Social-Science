@@ -1,0 +1,1597 @@
+stop_id,stop_name,stop_lat,stop_lon,location_type
+1001,CATS Terminal,30.4494,-91.165543,0
+1003,Cortana Pl  Walmart Transfer Center - W,30.461317,-91.091629,0
+1004,Earl K. Long Transfer Center - N,30.504025,-91.1325,0
+1005,Mall of Louisiana,30.390343,-91.090393,0
+1011,North St @ 23rd St - E,30.453117,-91.164688,0
+1012,North St @ 25th St - E,30.453159,-91.163078,0
+1013,North St @ Eugene - E,30.453218,-91.161171,0
+1014,North St @  Gebelin - E,30.453329,-91.158401,0
+1015,North St @ Connell - E,30.453369,-91.15715,0
+1016,North St @ N Acadian - E,30.453402,-91.155045,0
+1017,North St @ Saguaro - E,30.453478,-91.153572,0
+1018,39th @ North St - N,30.454088,-91.151016,0
+1019,39th @ Jonah - N,30.455803,-91.1511,0
+1020,39th @ Zion - N,30.458117,-91.151192,0
+1021,39th @ Billops - N,30.460794,-91.151558,0
+1022,Gus Young @ 40th St - E,30.461859,-91.150383,0
+1023,Gus Young @ Capitol Elementary - E,30.461912,-91.148811,0
+1024,Gus Young @ 44th St - E,30.461979,-91.145615,0
+1025,Gus Young @ Columbus Dunn - S,30.462023,-91.144592,0
+1026,Columbus Dunn @ Odell - S,30.459925,-91.144417,0
+1027,Columbus Dunn @ Jonah - S,30.457296,-91.144341,0
+1028,Columbus Dunn @ 44th - S,30.455072,-91.144142,0
+1029,North St @ Turner Plaza - E,30.45377,-91.143044,0
+1030,North St @ 49th St - E,30.453829,-91.140648,0
+1031,Foster Dr @ Laurel - S,30.452425,-91.139191,0
+1032,Foster Dr @ Laurel - N,30.452627,-91.139046,0
+1033,North St @ N 48th - W,30.453979,-91.141243,0
+1034,North St @ Columbus  Dunn - W,30.453905,-91.143555,0
+1035,Columbus Dunn @ Jonah - N,30.457178,-91.14418,0
+1036,Columbus Dunn @ Odell - N,30.459381,-91.144295,0
+1037,Columbus Dunn @ Gus Young - N,30.462055,-91.144455,0
+1038,Gus Young @ 43rd St - W,30.462132,-91.145905,0
+1039,Gus Young @ Capitol Elementary - W,30.462055,-91.148483,0
+1040,Gus Young @ 40th St - W,30.46199,-91.150192,0
+1041,39th @ Cain - S,30.460548,-91.151634,0
+1042,39th @ Odell - S,30.459675,-91.15155,0
+1043,39th @ Zion - S,30.4583,-91.15123,0
+1044,39th @ Jonah - S,30.456238,-91.151192,0
+1045,39th @ North St - S,30.453695,-91.15107,0
+1046,North St @ 36th - W,30.453585,-91.15313,0
+1047,North St @ N Acadian - W,30.453539,-91.154579,0
+1048,North St @ 32nd St - W,30.453522,-91.156097,0
+1049,North St @ 30th St - W,30.453461,-91.158195,0
+1050,North St @ 27th St - W,30.453388,-91.160889,0
+1051,North St @ 25th St - W,30.453331,-91.162872,0
+1052,North St @ 23rd St - W,30.453285,-91.164169,0
+1061,Scenic @ Spanish Town - N,30.45495,-91.167305,0
+1062,Scenic @ Fuqua - N,30.45735,-91.167419,0
+1063,Scenic @ Plank - N,30.459457,-91.167526,0
+1064,Scenic @ Bellvale - N,30.461849,-91.16758,0
+1065,Scenic @ Birch - N,30.463467,-91.167732,0
+1066,Scenic @ Shawnee - N,30.465406,-91.167854,0
+1067,Scenic @ Pawnee - N,30.466461,-91.167923,0
+1068,Scenic @ Adams - N,30.468348,-91.168015,0
+1069,Scenic @ Monroe - N,30.469358,-91.168083,0
+1070,Scenic @ Iroquois - N,30.471947,-91.168243,0
+1071,Scenic @ Chippewa - N,30.473009,-91.168312,0
+1072,Scenic @ Ontario - N,30.474863,-91.168404,0
+1073,Scenic @ Winbourne - N,30.477728,-91.168587,0
+1074,Scenic @ Calumet - N,30.479591,-91.168625,0
+1075,Scenic @ Wyandotte - N,30.481407,-91.168785,0
+1076,Scenic @ Mohican - N,30.484264,-91.168991,0
+1077,Scenic @ Weller - N,30.485287,-91.169083,0
+1078,Scenic @ Dayton - N,30.487839,-91.169205,0
+1079,Scenic @ Cable - N,30.489893,-91.169327,0
+1080,Scenic @ Evangeline/Galvez - N,30.493725,-91.169571,0
+1081,Scenic @ Lorraine - N,30.496399,-91.169678,0
+1082,Scenic @ Hollywood - N,30.499125,-91.169838,0
+1083,Scenic @ Shada - N,30.504826,-91.170334,0
+1084,Scenic @ Mason - N,30.506866,-91.170937,0
+1085,Scenic @ Kaufman - N,30.509972,-91.17276,0
+1086,Scenic @ 69th - N,30.511944,-91.173828,0
+1087,Scenic @ 72nd - N,30.513845,-91.175072,0
+1088,Scenic @ 74th - N,30.515457,-91.175964,0
+1089,Scenic @ 77th - N,30.516884,-91.176819,0
+1090,Scenic @ 78th - N,30.518307,-91.17762,0
+1091,Scenic @ 79th - N,30.519299,-91.178223,0
+1092,Harding Blvd @ Mini Dome - W,30.520372,-91.187515,0
+1099,Swan @ Mini Dome - E,30.523554,-91.185394,0
+1100,Scenic @ Fairchild - S,30.521929,-91.180061,0
+1101,Scenic @ Curtis St - S,30.521057,-91.179558,0
+1102,Scenic @ Palisades - S,30.519548,-91.178673,0
+1103,Scenic @ 78th - S,30.518476,-91.178078,0
+1104,Scenic @ 76th - S,30.516953,-91.177116,0
+1105,Scenic @ Scotlandville Library - S,30.515617,-91.176323,0
+1106,Scenic @ 72nd - S,30.514437,-91.175613,0
+1107,Scenic @ 70th - S,30.512957,-91.174744,0
+1108,Scenic @ 68th - S,30.511246,-91.173721,0
+1109,Scenic @ Kaufman - S,30.509926,-91.172913,0
+1110,Scenic @ Mason - S,30.507271,-91.171326,0
+1112,Scenic @ Hollywood - S,30.499325,-91.170006,0
+1113,Scenic @ Iberia - S,30.49552,-91.169769,0
+1115,Scenic @ Dayton - S,30.488096,-91.169334,0
+1116,Scenic @ Mohican - S,30.484224,-91.169128,0
+1119,Scenic @ Ontario - S,30.474922,-91.168579,0
+1120,Scenic @ Chippewa - S,30.473631,-91.168442,0
+1121,Scenic @ Seneca - S,30.47154,-91.168312,0
+1122,Scenic @ Choctaw - S,30.470018,-91.168243,0
+1123,Scenic @ Monroe - S,30.469273,-91.168221,0
+1124,Scenic @ Adams - S,30.468328,-91.168152,0
+1125,Scenic @ Hemlock - S,30.466713,-91.168053,0
+1126,Scenic @ Chestnut - S,30.465237,-91.167931,0
+1127,Scenic @ Birch - S,30.463507,-91.167862,0
+1128,Scenic @ Ellerslie - S,30.461971,-91.167786,0
+1129,Scenic @ Foss - S,30.460081,-91.167686,0
+1130,Scenic @ Fuqua - S,30.457432,-91.167511,0
+1131,Scenic @ Spanish Town - S,30.455627,-91.167427,0
+1137,4th @ north of Florida Blvd - S,30.44949,-91.187141,0
+1138,Airline @ New Life Ministries - N,30.505392,-91.134048,0
+1139,McClelland @ Maplewood - N,30.506929,-91.135406,0
+1140,McClelland @ Glen Oaks - N,30.511381,-91.135674,0
+1141,Glen Oaks @ Ash - E,30.511761,-91.132301,0
+1142,Glen Oaks @ Bluegrass - E,30.511644,-91.130669,0
+1143,Bluegrass @ Sumrall - E,30.513559,-91.130386,0
+1144,Bluegrass @ W Upland - N,30.515635,-91.130562,0
+1145,Bluegrass @ W Monarch - N,30.516285,-91.130585,0
+1146,Bluegrass @ Cadillac - N,30.517658,-91.130623,0
+1147,Cadillac @ Apperson - W,30.517897,-91.136383,0
+1148,Cadillac @ Simplex - W,30.51782,-91.13829,0
+1149,Cadillac @ Stutz - W,30.517775,-91.139519,0
+1150,Cadillac @ Kissel - W,30.517704,-91.141632,0
+1151,Cadillac @ Moon - W,30.517595,-91.144714,0
+1152,Cadillac @ Plank - W,30.51753,-91.146614,0
+1153,72nd @ Winnfield Funeral Home - S,30.515434,-91.148438,0
+1154,72nd @ Memorial Park - W,30.515314,-91.149971,0
+1155,72nd @ Howell - W,30.515205,-91.153854,0
+1158,72nd @ YMCA - W,30.515074,-91.15535,0
+1159,72nd @ Yorkshire - W,30.514685,-91.16153,0
+1160,72nd @ Nottingham - W,30.514629,-91.164482,0
+1161,72nd @ Middlesex - W,30.514557,-91.166344,0
+1162,72nd @ Pembroke - W,30.514475,-91.168358,0
+1163,72nd @ Goode - W,30.514376,-91.170898,0
+1164,72nd @ Somerset - W,30.514286,-91.172997,0
+1165,72nd @ Scenic - W,30.514227,-91.174675,0
+1166,Scenic Hwy @ Harding Blvd - N,30.519949,-91.17868,0
+1167,Scenic Hwy @ Curtis St - N,30.521181,-91.179443,0
+1168,Scenic Hwy @ Fairchild - N,30.521978,-91.179893,0
+1169,Scotland @ Swan - N,30.523994,-91.180489,0
+1170,Hwy 19 @ Robin St - N,30.525208,-91.18029,0
+1171,Hwy 19 @ Stilt - N,30.526749,-91.179993,0
+1172,Hwy 19 @ Oriole - N,30.528284,-91.179749,0
+1173,Hwy 19 @ Fraternity - N,30.530018,-91.179382,0
+1174,Hwy 19 @ Rosenwald Rd - N,30.53141,-91.179085,0
+1175,Scotland @ Scotlandville High School - N,30.53384,-91.178619,0
+1176,Blount @ Scotland - W,30.543297,-91.177788,0
+1177,Blount @ Tallow - W,30.541836,-91.185165,0
+1178,Blount @ Scenic/Canada - W,30.541006,-91.189415,0
+1179,Blount @ Kingfisher - W,30.540216,-91.191742,0
+1180,Blount @ Ave D - W,30.539907,-91.193405,0
+1181,Blount @ Ave F - W,30.539886,-91.195091,0
+1182,Blount @ Ave G - W,30.539888,-91.195969,0
+1193,Mills @ Scenic Hwy - S,30.532845,-91.186638,0
+1194,Scenic Hwy @ Bittern - S,30.531731,-91.185875,0
+1195,Scenic Hwy @ W.K. Gordon - S,30.530899,-91.185364,0
+1196,Scenic Hwy @ Baranco - S,30.529566,-91.184555,0
+1197,Scenic Hwy @ Goose St - S,30.528608,-91.183937,0
+1198,Scenic Hwy @ Grebe St - S,30.527212,-91.183136,0
+1199,Scenic Hwy @ Sparrow St - S,30.525875,-91.182358,0
+1200,Scenic Hwy @ Swan Ave - S,30.523727,-91.181534,0
+1202,Swan @  Leon Netterville - W,30.523291,-91.197166,0
+1203,Leon Netterville @ Comptroller Office - S,30.521189,-91.196922,0
+1204,Harding Blvd @ Elton C Harrison - E,30.520121,-91.192268,0
+1205,Harding Blvd @ Teacher's Parents CU - E,30.520208,-91.189018,0
+1206,Harding @ Mini Dome - E,30.52029,-91.186157,0
+1207,72nd @ Scenic - E,30.514206,-91.174706,0
+1208,72nd @ Somerset - E,30.514227,-91.173203,0
+1209,72nd @ Goode - E,30.514328,-91.171143,0
+1210,72nd @ Pembroke - E,30.514381,-91.168671,0
+1211,72nd @ Middlesex - E,30.514431,-91.166649,0
+1212,72nd @ Nottingham - E,30.514511,-91.164513,0
+1213,72nd @ Yorkshire - E,30.514688,-91.161285,0
+1214,72nd @ Howell - E,30.515102,-91.154266,0
+1215,72nd @ Howell Place Apartments - E,30.515238,-91.150139,0
+1216,72nd @ Plank - E,30.515408,-91.147766,0
+1217,Cadillac @ Moon - E,30.51749,-91.144821,0
+1218,Cadillac @ Kissel - E,30.517624,-91.141235,0
+1219,Cadillac @ Stutz - E,30.517666,-91.140045,0
+1220,Cadillac @ Apperson - E,30.517792,-91.136681,0
+1221,Cadillac @ White - E,30.517899,-91.1334,0
+1222,Bluegrass @ Cadillac - S,30.517738,-91.130821,0
+1223,Bluegrass @ W Monarch - S,30.516516,-91.130661,0
+1224,Bluegrass @ W Perimeter - S,30.514692,-91.130623,0
+1225,Bluegrass @ Sumrall - S,30.513744,-91.130516,0
+1226,Bluegrass @ Glen Oaks - S,30.511787,-91.130486,0
+1233,Greenwell @ Urban Restoration Apts - W,30.502518,-91.127953,0
+1234,Greenwell @ Quida Mae - W,30.502483,-91.129936,0
+1235,Greenwell St @ Airline Hwy - N,30.502445,-91.131042,0
+1239,Elm Grove @ Central Rd - S,30.535131,-91.16954,0
+1240,Central Rd @ Jewel Newman Center - W,30.53507,-91.171883,0
+1241,Central Rd @ Elm Grove - E,30.534847,-91.169548,0
+1244,Swan @ Kingfisher - W,30.523588,-91.183365,0
+1245,Swan @ Isabel Herson - W,30.523642,-91.186035,0
+1248,St Ferdinand @ Louisiana - S,30.445175,-91.186623,0
+1253,Government @ Eddie Robinson - E,30.443613,-91.175835,0
+1259,22nd @ Louisiana - N,30.445633,-91.165771,0
+1260,22nd @ North Blvd - N,30.447575,-91.165771,0
+1264,22nd @ Government - W,30.444069,-91.165764,0
+1268,Government @ Eugene - E,30.443993,-91.160515,0
+1270,Government @ Hearthstone - E,30.444122,-91.156769,0
+1271,Government @ Acadian Thwy - E,30.444153,-91.154701,0
+1278,Government @ Mouton - E,30.444391,-91.142693,0
+1280,Government @ Foster - E,30.444489,-91.138794,0
+1283,Government @ Franklin - E,30.444637,-91.132683,0
+1285,Government @ Ardenwood - E,30.444744,-91.129723,0
+1287,Government @ Apartment Ct Dr - E,30.444883,-91.123505,0
+1291,Jefferson @ After Corporate - E,30.429995,-91.108688,0
+1292,Jefferson @ Mc Carroll - E,30.428341,-91.107574,0
+1293,Jefferson @ Argosy - E,30.426535,-91.106567,0
+1294,Jefferson @ Brandon - E,30.425663,-91.105888,0
+1295,Jefferson @ Owen - E,30.423935,-91.10424,0
+1296,Jefferson @ Wrenwood - E,30.422132,-91.101875,0
+1297,Jefferson @ Brentwood - E,30.419695,-91.099113,0
+1298,Jefferson @ Drusilla Shopping Center - E,30.417992,-91.091675,0
+1299,Jefferson @ Drusilla - E,30.417166,-91.090111,0
+1300,Jefferson @ Jefferson Heights Apts - E,30.41608,-91.088043,0
+1301,Jefferson @ Jefferson Baptist Church - E,30.414227,-91.084648,0
+1302,Jefferson @ Bluebonnet Rd - E,30.412661,-91.081535,0
+1303,Bluebonnet @ Jefferson - S,30.409369,-91.079521,0
+1304,Bluebonnet @ Oliphant - S,30.405851,-91.081123,0
+1305,Bluebonnet @ Cal - S,30.402081,-91.083023,0
+1306,Bluebonnet @ Blue Cross Pkwy - N,30.398666,-91.084442,0
+1307,Bluebonnet @ Blue Cross Pkwy - S,30.399332,-91.084641,0
+1308,Bluebonnet @ Gail - N,30.400824,-91.08371,0
+1309,Bluebonnet @ Cal - N,30.402088,-91.082649,0
+1310,Bluebonnet @ Oliphant - N,30.405453,-91.081039,0
+1311,Bluebonnet @ Jefferson - N,30.408937,-91.079414,0
+1312,Jefferson @ Bluebonnet Rd - W,30.412842,-91.081451,0
+1313,Jefferson @ Jefferson Baptist Church - W,30.415031,-91.085655,0
+1314,Jefferson @ Jefferson Heights Apts - W,30.416185,-91.087799,0
+1315,Jefferson @ Drusilla Shopping Center - W,30.417665,-91.090599,0
+1316,Jefferson @ Fairway - W,30.419027,-91.093285,0
+1317,Jefferson @ Essen - W,30.419538,-91.096077,0
+1318,Jefferson @ Brentwood - W,30.419624,-91.098557,0
+1319,Jefferson @ Mcllhenny - W,30.421118,-91.100304,0
+1320,Jefferson @ Wrenwood - W,30.421749,-91.101173,0
+1321,Jefferson @ Jefferson Pl Blvd - W,30.422907,-91.102592,0
+1322,Jefferson @ Owen - W,30.423901,-91.103981,0
+1323,Jefferson @ Brandon - W,30.424759,-91.104767,0
+1324,Jefferson @ After Argosy - W,30.427004,-91.106674,0
+1326,Jefferson @ Mc Carroll - W,30.428051,-91.107208,0
+1327,Jefferson @ Corporate - W,30.430344,-91.108643,0
+1328,Lobdell @ Lasalle - N,30.434851,-91.110695,0
+1329,Lobdell @ Sevenoaks - N,30.439167,-91.110657,0
+1333,Government @ Croydon - W,30.445215,-91.116478,0
+1335,Government @ Apartment Ct - W,30.445007,-91.123825,0
+1337,Government @ Ardenwood - W,30.444908,-91.127052,0
+1339,Government @ Community College Dr - W,30.444672,-91.135597,0
+1340,Government @ Foster - W,30.444668,-91.138397,0
+1344,Government @ Edison - W,30.444393,-91.146942,0
+1347,Government @ Acadian - W,30.444283,-91.154083,0
+1349,Government @ Hearthstone - W,30.444242,-91.156357,0
+1354,Government @ 19th - W,30.443869,-91.168777,0
+1356,Government @ 17th - W,30.44381,-91.171967,0
+1358,Government @ Eddie Robinson - W,30.443766,-91.175591,0
+1360,Government @ East Blvd - W,30.443607,-91.180115,0
+1361,Government @ Napoleon - W,30.443483,-91.183609,0
+1364,S Eugene @ Oleander - S,30.442558,-91.160027,0
+1365,S Eugene @ McGrath - S,30.441114,-91.159966,0
+1366,S Eugene @ Myrtle - S,30.438852,-91.159866,0
+1367,S Eugene @ Kleinert - S,30.438021,-91.159866,0
+1368,Terrace @ S Eugene - S,30.436913,-91.160088,0
+1369,Terrace @ St Rose - W,30.436909,-91.161583,0
+1370,Terrace @ Drehr - W,30.436838,-91.163445,0
+1371,Terrace @ Camelia - W,30.436787,-91.166451,0
+1372,Terrace @ Perkins - W,30.436735,-91.167618,0
+1373,Terrace @ Park - W,30.436672,-91.168694,0
+1374,Terrace @ S 17th - W,30.4366,-91.17086,0
+1375,Terrace @ S 15th - W,30.43655,-91.173111,0
+1376,Terrace @ S 14th - W,30.436525,-91.174248,0
+1377,Terrace @ Eddie Robinson - W,30.436489,-91.175293,0
+1379,Thomas H Delpit @ Swart - S,30.435434,-91.17968,0
+1380,Thomas H Delpit @ Louise - S,30.434326,-91.178886,0
+1381,Thomas H Delpit @ Education - S,30.433037,-91.178017,0
+1383,Thomas H Delpit @ E Washington - S,30.431223,-91.176994,0
+1384,Thomas H Delpit @ E Harrison - S,30.429239,-91.176933,0
+1385,Thomas H Delpit @ E Polk - S,30.427202,-91.176872,0
+1386,Thomas H Delpit @ Taft - S,30.425537,-91.176819,0
+1387,Thomas H Delpit @ E Mckinley - S,30.423916,-91.176796,0
+1388,Thomas H Delpit @ Roosevelt - S,30.422031,-91.176743,0
+1389,W Roosevelt @ Highland - W,30.421835,-91.177979,0
+1391,W Roosevelt @ University Terrace Elementary - W,30.421761,-91.182358,0
+1392,W Roosevelt @ Alaska - W,30.421694,-91.184143,0
+1393,W Roosevelt @ Nicholson - W,30.421595,-91.187355,0
+1397,W Roosevelt @ University Terrace Elementary - E,30.421665,-91.182846,0
+1398,W Roosevelt @Edward Gay Apts. - E,30.421703,-91.180183,0
+1399,W Roosevelt @ Highland - E,30.421768,-91.178314,0
+1400,Thomas H Delpit @ Roosevelt - N,30.422291,-91.176567,0
+1401,Thomas H Delpit @ E McKinley - N,30.423609,-91.176643,0
+1403,Thomas H Delpit @ Taft - N,30.425777,-91.17675,0
+1404,Thomas H Delpit @ Polk St - N,30.426802,-91.17675,0
+1405,Thomas H Delpit @ E Harrison - N,30.429081,-91.176834,0
+1406,Thomas H Delpit @ Washington - N,30.430937,-91.176941,0
+1407,Thomas H Delpit @ Howard - N,30.433146,-91.178009,0
+1408,Thomas H Delpit @ Louise - N,30.434185,-91.178711,0
+1410,Terrace @ S 12th - E,30.436375,-91.176567,0
+1411,Terrace @ Eddie Robinson - E,30.436396,-91.175537,0
+1412,Terrace @ S 14th - E,30.436417,-91.1745,0
+1413,Terrace @ S 18th - E,30.436546,-91.170258,0
+1414,Terrace @ Park - E,30.436588,-91.169159,0
+1415,Terrace @ Perkins - E,30.436628,-91.167786,0
+1416,Terrace @ Drehr - E,30.436699,-91.163666,0
+1417,Terrace @ Eugene - E,30.436766,-91.159767,0
+1418,S Eugene @ Kleinert - N,30.437658,-91.15966,0
+1419,S Eugene @ McGrath - N,30.440895,-91.159859,0
+1420,S Eugene @ Oleander - N,30.442282,-91.159904,0
+1421,S Eugene @ Government - N,30.443295,-91.159927,0
+1424,3rd @ Laurel - N,30.450001,-91.188286,0
+1425,3rd St @ South of Main - N,30.450987,-91.188286,0
+1426,3rd St @ La. State Library - N,30.453081,-91.188293,0
+1431,3rd St @ State Capitol Dr - S,30.456421,-91.188622,0
+1433,4th St @ Laurel - S,30.45072,-91.187195,0
+1435,North Blvd @ Hearthstone - E,30.448122,-91.156853,0
+1436,North Blvd @ Beverly - E,30.44816,-91.155998,0
+1437,North Blvd @ Acadian - E,30.448168,-91.155098,0
+1438,S Acadian @ Government - S,30.444355,-91.154617,0
+1439,S Acadian @ Cole Dr - S,30.443377,-91.153778,0
+1440,S Acadian @ Claycut - S,30.44021,-91.152565,0
+1441,S Acadian @ Broussard - S,30.436251,-91.152779,0
+1442,S Acadian @ 1588 S Acadian - S,30.434305,-91.152718,0
+1444,S Acadian @ Catholic Life Center - S,30.430637,-91.15284,0
+1445,S Acadian @ Bawell - S,30.427113,-91.151276,0
+1446,S Acadian @ T J Ribs - S,30.425465,-91.150604,0
+1447,S Acadian @ Coyote Blues - S,30.423325,-91.151581,0
+1448,Perkins Rd @ Hood Ave - E,30.42001,-91.150772,0
+1449,Perkins Rd @  Valley St - E,30.419205,-91.148956,0
+1450,Perkins Rd @ Stuart - E,30.418041,-91.14695,0
+1451,Perkins Rd @ College/Lee Dr - E,30.416588,-91.143631,0
+1452,Perkins Rd @ Edinburgh - E,30.415604,-91.141411,0
+1453,Perkins Rd @ Glasgow - E,30.415051,-91.139992,0
+1454,Perkins Rd @ Congress - E,30.413589,-91.136803,0
+1455,Perkins Rd @ Moss Side - E,30.412565,-91.134918,0
+1456,Perkins Rd @ Pollard - E,30.411144,-91.132507,0
+1457,Perkins Rd @ Quail Oak Dr - E,30.407482,-91.126251,0
+1458,Perkins Rd @ Quail Dr - E,30.405537,-91.123764,0
+1459,Perkins Rd @ Pennington Center - E,30.403454,-91.12133,0
+1460,Perkins Rd @ Kenilworth - E,30.400471,-91.117668,0
+1461,Perkins Rd @ One Perkins Place - E,30.398678,-91.115341,0
+1462,Perkins Rd @ Baton Rouge Clinic - E,30.39699,-91.112816,0
+1463,Perkins Rd @ Essen Ln - E,30.395267,-91.110291,0
+1464,Perkins Rd @ Express Oil - E,30.393787,-91.108208,0
+1465,Perkins Rd @ Bles - E,30.391743,-91.106926,0
+1466,Perkins Rd @ Southside Produce - E,30.389763,-91.105682,0
+1467,Perkins Rd @ Y M C A Southside - E,30.388226,-91.104774,0
+1468,Perkins Rd @ L S U Health - E,30.384544,-91.10247,0
+1469,Perkins Rd @ Hyacinth - E,30.380636,-91.100113,0
+1471,Bluebonnet @ Renaissance Hotel - S,30.386179,-91.094604,0
+1472,Bluebonnet @ Park Rowe Ave - S,30.381096,-91.096817,0
+1473,Bluebonnet @ Perkins - S,30.379826,-91.097664,0
+1474,Perkins Rd @ Hyacinth - W,30.380459,-91.099556,0
+1475,Perkins Rd @ L S U Health - W,30.384399,-91.102165,0
+1476,Perkins Rd @ Y M C A Southside - W,30.387775,-91.10424,0
+1477,Perkins Rd @ Southside Produce - W,30.389751,-91.105469,0
+1478,Perkins Rd @ Granada - W,30.391096,-91.106293,0
+1479,Perkins Rd @ Roman's Cafe - W,30.393549,-91.10778,0
+1480,Perkins Rd @ Essen - W,30.394785,-91.109154,0
+1481,Perkins Rd @ Essen Ln Albertsons - W,30.395828,-91.110786,0
+1482,Perkins Rd @ Baton Rouge Clinic - W,30.397053,-91.112587,0
+1483,Perkins Rd @ One Perkins Pl - W,30.398561,-91.114929,0
+1484,Perkins Rd @ Kenilworth - W,30.399651,-91.116409,0
+1485,Perkins Rd @ Pennington Center - W,30.403418,-91.121071,0
+1486,Perkins Rd @ Quail - W,30.405325,-91.12326,0
+1487,Perkins Rd @ Quail Oak Dr - W,30.40766,-91.126266,0
+1488,Perkins Rd @ Congress - W,30.413555,-91.13633,0
+1489,Perkins Rd @ Glasgow - W,30.414993,-91.139542,0
+1490,Perkins Rd @ College/Mc Donald's - W,30.415915,-91.141701,0
+1491,Perkins Rd @ College Auto Zone - W,30.417042,-91.144264,0
+1492,Perkins Rd @ Balis Dr - W,30.418095,-91.146622,0
+1493,Perkins Rd @ Valley - W,30.419163,-91.14856,0
+1494,Perkins Rd @ Acadian-Perkins Plaza - W,30.420408,-91.151146,0
+1495,S Acadian @ Perkins - N,30.421843,-91.152214,0
+1496,S Acadian @ Bawell - N,30.426861,-91.150932,0
+1497,S Acadian @ Catholic Life Center - N,30.430798,-91.152641,0
+1498,S Acadian @ Broussard - N,30.435984,-91.152588,0
+1500,S Acadian @ Government - N,30.443653,-91.153702,0
+1501,S Acadian @ Rite Aid - N,30.445087,-91.154701,0
+1502,S Acadian @ Wilshire - N,30.446028,-91.154716,0
+1503,North Blvd @ Kernan - W,30.448278,-91.155716,0
+1504,North Blvd @ Bedford - W,30.448248,-91.157303,0
+1505,North Blvd @ Gottlieb - W,30.448168,-91.158958,0
+1506,North Blvd @ Eugene - W,30.44813,-91.160332,0
+1507,North Blvd @ 26th St - W,30.448051,-91.16185,0
+1508,North Blvd @ 24th - W,30.448021,-91.163292,0
+1509,North Blvd @ 22nd - N,30.447983,-91.165703,0
+1510,Goodwood @ Airline/Old Woman's Hospital - W,30.442965,-91.090782,0
+1511,Goodwood @ BR Water Company - W,30.442888,-91.093628,0
+1512,Goodwood @ Connels Park - W,30.442839,-91.095634,0
+1513,Goodwood @ Chevelle - W,30.44277,-91.098289,0
+1514,East Airport @ Goodwood - W,30.442644,-91.101784,0
+1515,Independence Blvd @ DMV - E,30.445339,-91.107666,0
+1516,Independence Blvd @ Botanical Gardens - E,30.445415,-91.105537,0
+1517,Lobdell @ Seven Oaks - S,30.439457,-91.110817,0
+1518,Lobdell @ Lasalle - S,30.435286,-91.110847,0
+1519,Lobdell @ Jefferson - S,30.433735,-91.110931,0
+1520,Jefferson and Corporate - E,30.431238,-91.109718,0
+1521,Corporate @ Jefferson/Town Center - W,30.430811,-91.111412,0
+1522,Corporate @ Books A Million - W,30.430054,-91.115746,0
+1523,Corporate @ Commerce - W,30.429276,-91.116989,0
+1524,Corporate @ Town Center Apts - W,30.427975,-91.119186,0
+1525,Corporate @ The Reserve at Cedar Lodge - W,30.42524,-91.122498,0
+1526,Corporate @ Citiplace - W,30.425232,-91.1297,0
+1527,Corporate @ Energy Dr - W,30.425097,-91.131699,0
+1528,Corporate @ Park Plaza - W,30.425028,-91.13356,0
+1529,College @ Bennington - S,30.421391,-91.140488,0
+1530,College @ Concord - S,30.419024,-91.141655,0
+1531,Lee @ Perkins/Poplar - S,30.415827,-91.143845,0
+1532,Lee @ Mimosa - S,30.412321,-91.145943,0
+1533,Lee @ Hyacinth - S,30.409834,-91.147614,0
+1534,Lee @ Boone - S,30.398535,-91.155602,0
+1535,Lee @ Lake After Hours - S,30.394524,-91.159279,0
+1536,Lee @ Winn Dixie - S,30.39292,-91.160873,0
+1537,Lee @ Burbank - S,30.391855,-91.161949,0
+1538,Lee @ Etta - S,30.388994,-91.170166,0
+1539,Brightside @ Ward - W,30.387722,-91.173241,0
+1540,Brightside @ Circle K - W,30.388069,-91.179169,0
+1541,Brightside @ Alvin Dark - W,30.388296,-91.181717,0
+1543,Brightside @ Brightside View Shelter - E,30.388178,-91.181175,0
+1544,Brightside @ Blox - E,30.387903,-91.178947,0
+1545,Brightside @ Campus Crossing - E,30.387421,-91.175041,0
+1546,Alvin Dark @ Sharlo Ave - N,30.389406,-91.181854,0
+1547,Alvin Dark @ Establishment Apts - S,30.391943,-91.180977,0
+1548,Alvin Dark @ Jay Hebert - N,30.395224,-91.180328,0
+1558,Alvin Dark @ Jay Hebert - S,30.395496,-91.180466,0
+1559,Alvin Dark @ Jim Taylor Dr - N,30.391638,-91.180878,0
+1560,Alvin Dark @ Sharlo Ave - S,30.389515,-91.181923,0
+1564,Brightside @ Campus Crossing - W,30.387506,-91.174797,0
+1565,Lee @ Etta - N,30.388821,-91.170242,0
+1566,Lee @ Burbank - N,30.392115,-91.16143,0
+1567,Lee @ Lake After Hours - N,30.394466,-91.159019,0
+1568,Lee @ Boone - N,30.398525,-91.155396,0
+1569,Lee @ Place Duplantier Apts - N,30.400774,-91.153343,0
+1570,Lee @ Hyacinth - N,30.409637,-91.147621,0
+1571,Lee @ Sweet Briar - N,30.411295,-91.14653,0
+1572,Lee @ Mimosa - N,30.412146,-91.145966,0
+1573,Lee @ Tupelo - N,30.41477,-91.144348,0
+1574,College @ Perkins/RR Tracks - N,30.417139,-91.1427,0
+1575,College @ Dollar Tree Shelter - N,30.418962,-91.141426,0
+1576,College @ Bennington - N,30.420708,-91.140541,0
+1577,Corporate @ College - E,30.425224,-91.136414,0
+1578,Corporate @ Energy Dr - E,30.42486,-91.132278,0
+1579,Corporate @ Citiplace - E,30.424599,-91.127907,0
+1580,Corporate @ Commerce - E,30.42927,-91.116547,0
+1581,Corporate @ Jefferson/Town Center - E,30.430592,-91.111755,0
+1582,Jefferson @ Lobdell - W,30.43277,-91.11039,0
+1583,Lobdell @ Goodwood - N,30.442022,-91.110619,0
+1584,Independence Blvd @ E. Airport - W,30.445726,-91.103035,0
+1585,Independence Blvd @ Public Safety Blvd - W,30.445564,-91.105682,0
+1586,Independence Blvd @ DMV - W,30.445581,-91.107452,0
+1587,Goodwood @ Chevelle - N,30.442495,-91.09874,0
+1588,Goodwood @ Tara - N,30.442587,-91.096436,0
+1589,Goodwood @ BR Water Company - N,30.442652,-91.093887,0
+1590,Airline @ Vine - W,30.44755,-91.091896,0
+1591,Airline @ Florline - W,30.457321,-91.098885,0
+1592,Burbank @ East Boyd - W,30.400757,-91.175072,0
+1593,Acadian @ Oswego - N,30.480423,-91.156502,0
+1594,Acadian @ Wyandotte - N,30.482231,-91.156563,0
+1595,Acadian @ Mohican St - N,30.484276,-91.156624,0
+1596,Mohican St @ Lynn St - E,30.484524,-91.153885,0
+1597,Mohican-Prescott @ Delaware St - E,30.484884,-91.150032,0
+1598,Mohican-Prescott @ Now Faith COGIC - E,30.486376,-91.146538,0
+1599,Prescott @ Beechwood Dr - E,30.48744,-91.143669,0
+1600,Prescott @ Foster Dr - E,30.487507,-91.140633,0
+1601,E Brookstown @ W. Cyrus - N,30.489162,-91.128166,0
+1602,E Brookstown @ Brookstown Elementary - N,30.490692,-91.128227,0
+1603,E Brookstown @ Oasis Church - N,30.491846,-91.128242,0
+1604,E Brookstown @ Evangeline St - N,30.493368,-91.128235,0
+1605,Evangeline St @ Hammond St - W,30.493467,-91.129005,0
+1606,Evangeline St @ Broadway St - W,30.493414,-91.132332,0
+1607,Evangeline St @ Annette St - W,30.493368,-91.133415,0
+1608,Evangeline @ McClelland Dr - W,30.493355,-91.134705,0
+1609,Evangeline St @ Elm St - W,30.493305,-91.138054,0
+1610,N Foster @ Sycamore - N,30.494774,-91.140633,0
+1611,N Foster @ Lorraine - N,30.49642,-91.140709,0
+1612,Evangeline @ Elm St - E,30.493202,-91.138428,0
+1613,Evangeline @ McClelland Dr - E,30.493279,-91.135315,0
+1614,Evangeline @ W Brookstown - E,30.493284,-91.133141,0
+1615,Evangeline St @ Hope St - E,30.493355,-91.130661,0
+1616,Evangeline St @ E Brookstown - E,30.493418,-91.1287,0
+1617,E Brookstown @ Clayton - S,30.491529,-91.128304,0
+1618,Prescott Before E. Brookstown - E,30.488129,-91.130096,0
+1619,Prescott @ W. Brookstown Dr - W,30.48789,-91.132698,0
+1620,Prescott @ Mount Carmel Ln - W,30.487766,-91.136047,0
+1621,Prescott @ Elm St - W,30.487709,-91.137985,0
+1622,Prescott @ Prescott Ct - E,30.487522,-91.139519,0
+1623,Prescott @ Beechwood Dr - W,30.487534,-91.143303,0
+1624,Mohican-Prescott @ Now Faith COGIC - W,30.486607,-91.146416,0
+1625,Mohican-Prescott @ Delaware St - W,30.485323,-91.1493,0
+1627,Mohican @ N. Acadian - W,30.484617,-91.155647,0
+1628,N. Acadian @ Winnebago St - S,30.483486,-91.156754,0
+1629,N. Acadian @ Charles St. - S,30.481819,-91.156723,0
+1630,N. Acadian @ Winbourne - N,30.478228,-91.156403,0
+1631,N. Acadian @ Winbourne Ave - S,30.478645,-91.156616,0
+1632,N. Acadian @ Brady St. - S,30.47484,-91.156693,0
+1633,N. Acadian @ Chippewa - S,30.473351,-91.156624,0
+1634,N. Acadian @ Seneca - S,30.47167,-91.156555,0
+1635,N. Acadian @ Choctaw - S,30.470285,-91.156494,0
+1636,N. Acadian @ Adams - S,30.46874,-91.156418,0
+1637,N. Acadian @ Fairfields - S,30.467125,-91.156357,0
+1638,Prescott @ Elm St - E,30.487587,-91.13826,0
+1639,Prescott @ The Lodge Apt - E,30.487659,-91.135338,0
+1640,Prescott @ Foster Dr - W,30.487669,-91.140205,0
+1641,Prescott @ W. Brookstown Dr - E,30.487711,-91.132973,0
+1642,E. Brookstown @ Prescott - S,30.48864,-91.12825,0
+1644,Evangeline @ Foster Dr - W,30.493271,-91.140388,0
+1645,North Blvd @ Eugene - E,30.448027,-91.160667,0
+1646,S Acadian @ Convention St - N,30.449175,-91.154579,0
+1647,S Acadian @ Florida - N,30.450136,-91.15461,0
+1648,N Acadian @ Gus Young - N,30.462439,-91.155312,0
+1649,N Acadian @ Adams Ave - N,30.468651,-91.155327,0
+1650,N Acadian @ Choctaw - N,30.469898,-91.15538,0
+1651,N Acadian @ Seneca St - N,30.471453,-91.155479,0
+1652,N Acadian @ Dalton St - N,30.473816,-91.155861,0
+1654,Mohican @ N 38th - W,30.48477,-91.152794,0
+1656,N Acadian @ Winnebago - N,30.483099,-91.156616,0
+1658,N. Acadian @ Ontario - N,30.475388,-91.155991,0
+1659,N Acadian @ Iroquois - N,30.472118,-91.155609,0
+1660,N Acadian @ Fairfields - N,30.46697,-91.155273,0
+1661,N Acadian @ Jackson - S,30.466293,-91.156349,0
+1662,N Acadian @ Jefferson - S,30.464733,-91.156311,0
+1663,N Acadian @ Gus Young - S,30.462679,-91.156219,0
+1664,N Acadian @ Bogan Walk - S,30.461472,-91.156158,0
+1665,N Acadian @ Cain - S,30.460283,-91.156136,0
+1666,N Acadian @ Zion - S,30.457952,-91.156029,0
+1667,N Acadian @ North St - S,30.453712,-91.154968,0
+1668,N Acadian @ Laurel - S,30.451788,-91.154854,0
+1669,N Acadian @ Florida - S,30.450502,-91.154839,0
+1670,N Acadian @ Convention - S,30.449389,-91.154778,0
+1671,N Acadian @ North Blvd - S,30.448334,-91.1548,0
+1672,N Acadian @ Washington - N,30.465031,-91.155205,0
+1673,N Acadian @ Bogan Walk - N,30.461769,-91.155266,0
+1674,N Acadian @ Cain - N,30.460323,-91.155212,0
+1675,N Acadian @ Zion - N,30.457951,-91.155098,0
+1676,N Acadian @ Jonah - N,30.455721,-91.154984,0
+1677,N Acadian @ North St - N,30.453318,-91.154724,0
+1678,N Acadian @ Laurel - N,30.451323,-91.154655,0
+1679,North Blvd @ St. Rose - E,30.447948,-91.161957,0
+1681,22nd @ Main - N,30.4519,-91.165886,0
+1682,22nd @ North St - N,30.452974,-91.16597,0
+1683,22nd @ Edgewood - N,30.454765,-91.165977,0
+1684,22nd @ Fuqua - N,30.457247,-91.166122,0
+1685,22nd @ Plank - N,30.461233,-91.166336,0
+1686,Plank @ Birch - N,30.463264,-91.16581,0
+1687,Plank @ Washington - N,30.464996,-91.165176,0
+1688,Plank @ Fairfield - N,30.466564,-91.164665,0
+1689,Fairfields @ 26th - E,30.466743,-91.162865,0
+1690,Fairfields @ 28th - E,30.466827,-91.160851,0
+1691,Fairfields @ 30th - E,30.466892,-91.158798,0
+1692,Fairfields @ N Acadian W - E,30.46697,-91.156525,0
+1693,Fairfields @ N Acadian E - E,30.467012,-91.155495,0
+1694,Fairfields @ 38th - E,30.467102,-91.152473,0
+1695,Fairfields @ Bateman - E,30.467222,-91.150009,0
+1697,Fairfields @ Martin - E,30.467554,-91.144035,0
+1698,Fairfields @ Foster - E,30.467731,-91.139984,0
+1699,Fairfields @ Bahm - E,30.467802,-91.137123,0
+1700,Fairfields @ Paulson - E,30.467865,-91.13459,0
+1701,Fairfields @ Sobers - E,30.46792,-91.132401,0
+1702,Fairfields @ N Ardenwood - E,30.467964,-91.13063,0
+1703,Greenwell Springs @ Williamson - E,30.46858,-91.128212,0
+1704,Greenwell Springs @ E Smiley - E,30.470482,-91.12487,0
+1705,Greenwell Springs @ Lobdell - E,30.471033,-91.122871,0
+1706,Lobdell @ Lobwood - S,30.468555,-91.120964,0
+1707,Lobdell @ Copper Ridge Apts - S,30.46677,-91.119598,0
+1708,Lobdell @ Aspen Apts - S,30.465319,-91.118553,0
+1709,Lobdell @ Tom Dr - S,30.462355,-91.116364,0
+1710,N Bon Marche Dr @ Oak Park Plaza - S,30.459673,-91.115807,0
+1711,N Bon Marche Dr @ Harry Dr - S,30.457512,-91.115921,0
+1712,Harry Dr @ Greater King David Church - E,30.457621,-91.114105,0
+1713,Lobdell @ Tom Dr - N,30.461845,-91.115669,0
+1714,Tom @ Wooddale - E,30.463053,-91.111946,0
+1715,Tom Dr @ Wooddale Ct - E,30.463455,-91.111214,0
+1716,Tom Dr @ DOTD/Dallas Dr - E,30.464306,-91.10936,0
+1717,Tom Dr @ Beaumont - W,30.465082,-91.107941,0
+1718,Tom Dr @ Commerce - E,30.467997,-91.101677,0
+1719,Tom Dr @ Airway - E,30.468067,-91.098984,0
+1720,Airway @ Leo Skating - S,30.465651,-91.098686,0
+1721,Cortana Pl @ Sams Club - W,30.460075,-91.095947,0
+1722,Cortana Pl @ Florline - W,30.458378,-91.096977,0
+1723,Cortana Pl @ Center Way Blvd - E,30.455168,-91.092461,0
+1724,Cortana Pl @ Crossway - N,30.459486,-91.089684,0
+1725,Cortana Pl @ Lowes - W,30.461161,-91.093369,0
+1726,Airway @ Leo Skating - N,30.46537,-91.098579,0
+1727,Tom Dr @ DOTD/Dallas Dr - W,30.464527,-91.108978,0
+1728,Tom Dr @ Wooddale - W,30.463396,-91.111519,0
+1729,Lobdell @ Renoir - S,30.461102,-91.115509,0
+1730,Lobdell @ Harry - N,30.458435,-91.113121,0
+1731,Lobdell @ Woodcrest Apts - N,30.463642,-91.117035,0
+1732,Lobdell @ Aspens Apts - N,30.465694,-91.118507,0
+1733,Lobdell @ Copper Ridge Apts - N,30.46661,-91.119186,0
+1734,Lobdell @ Hawthorne Heights Apts - N,30.467953,-91.120163,0
+1735,Lobdell @ Lobwood - N,30.468851,-91.120842,0
+1736,Lobdell @ S Choctaw - N,30.469851,-91.12159,0
+1737,Greenwell Springs @ E. Smiley Ave - W,30.470575,-91.125008,0
+1738,Greenwell Springs @ Confidence - W,30.469498,-91.126869,0
+1739,Greenwell Springs @ Williamson - W,30.4688,-91.128143,0
+1740,Greenwell Springs @ Ardenwood - W,30.468134,-91.129372,0
+1741,Fairfields @ Ardenwood West - W,30.468056,-91.130898,0
+1742,Fairfields @ Sobers - W,30.468021,-91.132149,0
+1743,Fairfields @ Paulson - W,30.46796,-91.134361,0
+1744,Fairfields @ Bahm - W,30.467897,-91.136894,0
+1745,Fairfields @ Foster - W,30.467842,-91.13932,0
+1746,Fairfields @ Harelson - W,30.467731,-91.14283,0
+1747,Fairfields @ Missions - W,30.46769,-91.144653,0
+1748,Fairfields @ E Belfair - W,30.467497,-91.14698,0
+1749,Fairfields @ Rice - W,30.467319,-91.148926,0
+1750,Fairfields @ 39th - W,30.467276,-91.151199,0
+1751,Fairfields @ 38th - W,30.467226,-91.152245,0
+1752,Fairfields @ N Acadian E - W,30.467112,-91.155312,0
+1753,Fairfields @ N Acadian W - W,30.467077,-91.15625,0
+1754,Fairfields @ 30th - W,30.467033,-91.158623,0
+1755,Fairfields @ 28th - W,30.466965,-91.16066,0
+1756,Fairfields @ 26th - W,30.466864,-91.162613,0
+1757,Fairfields @ Plank - W,30.466833,-91.164459,0
+1758,Plank @ Seminole - S,30.464823,-91.165428,0
+1759,Plank @ Birch - S,30.463638,-91.165863,0
+1760,Plank @ 22nd - S,30.461815,-91.166512,0
+1761,22nd @ Fuqua - S,30.45747,-91.166298,0
+1762,22nd @ Spanish Town - S,30.455368,-91.166183,0
+1763,22nd @ Main St - S,30.452251,-91.166054,0
+1764,Wooddale @ Savoy Apts - N,30.454573,-91.105698,0
+1765,Wooddale @ Albert Dr - N,30.455957,-91.106728,0
+1766,Wooddale @ Franwood Dr - N,30.460581,-91.109825,0
+1767,Victoria @ Mount Olive - N,30.477741,-91.117447,0
+1768,Winbourne @ Bellemont Victoria Apts - W,30.479786,-91.118591,0
+1769,Winbourne @ Juban - W,30.479612,-91.121567,0
+1770,Winbourne @ Living Faith Christian Center - W,30.479366,-91.125992,0
+1771,Winbourne @ Ardenwood - W,30.47933,-91.130219,0
+1772,Winbourne @ Bootsie Dr - W,30.4793,-91.133026,0
+1773,Winbourne @ Howell Park - W,30.479231,-91.135513,0
+1774,Winbourne @ Foster Dr - W,30.478939,-91.140495,0
+1775,Winbourne @ Mission Dr - W,30.47879,-91.144936,0
+1776,Winbourne @ Webb - W,30.478712,-91.148346,0
+1779,N. Acadian @ LA Technical College - N,30.47728,-91.156242,0
+1780,Winbourne @ Polarine Ave - W,30.478376,-91.158806,0
+1781,Chippewa @ Tecumseh - W,30.473307,-91.165604,0
+1782,Chippewa @ Cedar Ave - W,30.473143,-91.1698,0
+1783,Chippewa @ Jessamine - W,30.473122,-91.17144,0
+1784,Chippewa @ Lockwood - W,30.473013,-91.173637,0
+1785,Chippewa @ Phlox - W,30.472853,-91.179176,0
+1786,Chippewa @ Sorrel - W,30.472809,-91.180634,0
+1787,Chippewa @ Lupine - W,30.472754,-91.182899,0
+1788,Chippewa @ DPW Lot - S,30.471498,-91.185844,0
+1790,Chippewa @ Eiland - S,30.466591,-91.188469,0
+1791,Chippewa @ River View Condos - S,30.464514,-91.188309,0
+1792,3rd St @ North Campus - S,30.46183,-91.187889,0
+1793,3rd St @ Capitol Lake Dr - S,30.459715,-91.188095,0
+1794,4th St @ State Library - S,30.453262,-91.187347,0
+1795,Florida @ 4th St - W,30.449413,-91.187416,0
+1796,Government St @ St. James - W,30.443327,-91.189445,0
+1799,3rd St @ Spanish Town - N,30.454283,-91.188423,0
+1800,3rd St @ State Capitol Dr - N,30.456203,-91.188515,0
+1801,River Rd @ Hollywood Casino - N,30.460049,-91.189392,0
+1802,River Rd @ Riverview Condos - N,30.465216,-91.188202,0
+1803,Chippewa @ Choctaw - N,30.469158,-91.188339,0
+1804,Chippewa @ Gonzalez - E,30.471567,-91.185349,0
+1805,Chippewa @ Lupine - E,30.472555,-91.183479,0
+1806,Chippewa @ Sorrel - E,30.472631,-91.181366,0
+1807,Chippewa @ Phlox - E,30.472706,-91.17939,0
+1808,Chippewa @ Pimpernel - E,30.472954,-91.172234,0
+1809,Chippewa @ Scenic - E,30.473038,-91.168976,0
+1810,Chippewa @ Tecumseh - E,30.473127,-91.165718,0
+1811,Chippewa @ Wenonah - E,30.473246,-91.164009,0
+1812,N Acadian @ Erie St - S,30.47637,-91.156807,0
+1816,Winbourne @ Delaware - E,30.478497,-91.149582,0
+1817,Winbourne @ Webb - E,30.478537,-91.148399,0
+1818,Winbourne @ Eaton - E,30.478603,-91.146255,0
+1819,Winbourne @ Mission Dr - E,30.478636,-91.145126,0
+1820,Winbourne @ Beechwood Dr - E,30.478779,-91.142365,0
+1821,Winbourne @ Foster Dr - E,30.478853,-91.140755,0
+1822,Winbourne @ Elm - E,30.478937,-91.137955,0
+1823,Winbourne @ Daugherty Dr - E,30.479048,-91.135704,0
+1824,Winbourne @ Bootsie Dr - E,30.479155,-91.133156,0
+1825,Winbourne @ Ardenwood - E,30.479185,-91.130409,0
+1826,Winbourne @ Michelle - E,30.479231,-91.12709,0
+1827,Winbourne @ Lambert - E,30.479279,-91.12532,0
+1828,Winbourne @ Juban - E,30.479494,-91.121826,0
+1829,Winbourne @ Victoria - E,30.479723,-91.117683,0
+1830,Victoria @ Mount Olive - S,30.477901,-91.117592,0
+1831,Wooddale @ Heritage House - S,30.460972,-91.110435,0
+1832,Wooddale @ Belhaven Trace - S,30.458857,-91.109001,0
+1833,Wooddale @ Colonial Terrace - S,30.455395,-91.106552,0
+1834,Wooddale @ La Morenita Meat Market - S,30.453648,-91.105484,0
+1835,Cortana Pl @ Sears - N,30.458452,-91.08873,0
+1837,Wooddale @ Exchange Pl - N,30.464981,-91.112839,0
+1838,Wooddale @ Lobwood - N,30.46888,-91.115501,0
+1839,Wooddale @ Choctaw - N,30.47057,-91.115845,0
+1840,Greenwell Springs @ Victoria Dr - W,30.474833,-91.11718,0
+1841,Wooddale @ Choctaw - S,30.471279,-91.116089,0
+1842,Wooddale @ Lobwood - S,30.469208,-91.115974,0
+1843,Wooddale @ Employment Office - S,30.4669,-91.114449,0
+1844,Wooddale @ Tom Dr - W,30.463322,-91.112015,0
+1845,N Foster @ Airline - S,30.508135,-91.141518,0
+1846,N Foster @ Claiborne Elementary - S,30.504972,-91.141396,0
+1847,N Foster @ Greenwell - S,30.502211,-91.141281,0
+1848,N Foster @ Hollywood - S,30.499996,-91.141151,0
+1849,N Foster @ Lorraine - S,30.496794,-91.140869,0
+1850,N Foster @ Sycamore - S,30.495083,-91.140778,0
+1851,N Foster @ Evangeline - S,30.493662,-91.140739,0
+1852,N Foster @ Clayton - S,30.491388,-91.140701,0
+1853,N Foster @ Sherwood - S,30.490479,-91.140617,0
+1854,N Foster @ Prescott - S,30.487741,-91.140495,0
+1855,N Foster @ Linden - S,30.485767,-91.140396,0
+1856,N Foster @ Charles - S,30.481913,-91.140877,0
+1857,N Foster @ Winbourne Ave - S,30.47901,-91.140678,0
+1858,N Foster @ Wilmot St - S,30.476572,-91.140579,0
+1859,N Foster @ Frey St - S,30.475805,-91.140564,0
+1860,N Foster @ Underwood Ave - S,30.473978,-91.140457,0
+1861,N Foster @ Osborne Ave - S,30.47304,-91.140411,0
+1862,N Foster @ Choctaw Dr - S,30.471308,-91.140327,0
+1863,N Foster @ Adams Ave - S,30.469503,-91.139908,0
+1864,N Foster @ Fairfield Ave - S,30.467896,-91.139885,0
+1865,N Foster @ Washington Ave - S,30.466274,-91.139816,0
+1866,N Foster @ Staring Education Center - S,30.464094,-91.139725,0
+1867,N Foster @ Gus Young Ave - S,30.462456,-91.139595,0
+1868,N Foster @ LSU Health Center - S,30.461426,-91.139587,0
+1869,N Foster @ Plain View Church - S,30.458857,-91.139458,0
+1870,N Foster @ North St - S,30.454842,-91.139305,0
+1871,N Foster Dr @ Florida Blvd - S,30.451122,-91.139091,0
+1872,N Foster Dr @ North Blvd - S,30.448973,-91.13903,0
+1873,N Foster Dr @ YMCA/Albertsons - S,30.446648,-91.138931,0
+1874,S Foster Dr @ Capital Heights - S,30.442823,-91.138542,0
+1875,S Foster Dr @ Claycut Condominiums - S,30.440491,-91.136841,0
+1876,S Foster Dr @ East Baton Rouge School Office - S,30.439425,-91.134613,0
+1877,College Dr @ Westdale - S,30.435314,-91.133804,0
+1878,College Dr @ Woodside Dr - S,30.431091,-91.135323,0
+1879,College Dr @ Bardwell Dr - S,30.429127,-91.135864,0
+1880,City Place @ Barns & Noble,30.42341,-91.128426,0
+1881,Corporate Blvd @ College Dr - N,30.42588,-91.137428,0
+1882,College Dr @ Holloway Ave - N,30.428228,-91.136345,0
+1883,College Dr @ Woodside Dr - N,30.430817,-91.135208,0
+1884,College Dr @ Ole Towne - N,30.433638,-91.134674,0
+1885,S Foster Dr @ Burgundy Ave - N,30.437859,-91.132286,0
+1886,S Foster Dr @ Shadow Creek Condominiums - N,30.440413,-91.136269,0
+1887,S Foster Dr @ Claycut - N,30.441193,-91.138054,0
+1888,S Foster Dr @ Government - N,30.444326,-91.138397,0
+1889,S Foster Dr @ BRCC - N,30.447037,-91.138741,0
+1890,S Foster Dr @ Convention - N,30.449717,-91.138916,0
+1891,S Foster Dr @ North St - N,30.453773,-91.139053,0
+1892,S Foster Dr @ The Crillon Apt - N,30.459284,-91.139343,0
+1893,S Foster Dr @ Star Hill Church - N,30.46081,-91.139397,0
+1894,S Foster Dr @ Gus Young - N,30.463022,-91.139458,0
+1895,S Foster Dr @ Family Dollar - N,30.463783,-91.139549,0
+1896,S Foster Dr @ Jackson Ave - N,30.466606,-91.139656,0
+1897,S Foster Dr @ Fairfields - N,30.467529,-91.139694,0
+1898,S Foster Dr @ Advance Auto Parts - N,30.470078,-91.139816,0
+1899,S Foster Dr @ Foster Car Wash - N,30.471373,-91.14016,0
+1900,S Foster Dr @ Osborn Ave - N,30.472839,-91.140266,0
+1901,S Foster Dr @ Underwood - N,30.473824,-91.140312,0
+1902,S Foster Dr @ Frey - N,30.475611,-91.140411,0
+1903,N Foster Dr @ Winbourne - N,30.478758,-91.140556,0
+1904,N Foster Dr @ Charles St - N,30.481489,-91.140701,0
+1905,N Foster Dr @ Linden - N,30.485228,-91.14032,0
+1906,N Foster Dr @ Prescott - N,30.487024,-91.140305,0
+1907,N Foster Dr @ Evangeline - N,30.492975,-91.140533,0
+1908,N Foster Dr @ Hollywood - N,30.499502,-91.141029,0
+1909,Hollywood Rd @ Winchester - E,30.499729,-91.138428,0
+1910,Hollywood Rd @ McClelland - E,30.499771,-91.135445,0
+1911,Hollywood Rd @ Piggly Wiggly - E,30.500937,-91.133743,0
+1912,Plank @ Adams - N,30.468307,-91.164055,0
+1913,Plank @ Choctaw - N,30.469545,-91.163681,0
+1914,Plank @ Seneca - N,30.471176,-91.16304,0
+1915,Plank @ Chippewa - N,30.473026,-91.162399,0
+1916,Plank @ Dalton - N,30.473772,-91.162163,0
+1917,Plank @ Ontario - N,30.475309,-91.161629,0
+1918,Plank @ Huron - N,30.476894,-91.161018,0
+1919,Plank @ Winbourne - E,30.478136,-91.160606,0
+1920,Plank @ Oswego - N,30.480286,-91.159897,0
+1921,Plank @ Wyandotte - N,30.481918,-91.159264,0
+1922,Plank @ Winnebago - N,30.483261,-91.158821,0
+1923,Plank @ Mohican - N,30.484621,-91.158318,0
+1924,Plank @ Weller - N,30.485647,-91.158012,0
+1925,Plank @ Prescott - N,30.486986,-91.157478,0
+1926,Plank @ Dayton - N,30.488235,-91.157021,0
+1927,Plank @ Clayton - N,30.490273,-91.156387,0
+1928,Plank @ Evangeline - N,30.492657,-91.155518,0
+1929,Plank @ Sycamore - N,30.494408,-91.154823,0
+1930,Plank @ Delmont Village - N,30.495384,-91.15448,0
+1931,Plank @ St Gerard - N,30.497112,-91.1539,0
+1932,Plank @ Riley - N,30.498522,-91.153412,0
+1933,Plank @ Vaughn - N,30.501322,-91.152481,0
+1934,Plank @ JH Cooney - N,30.502909,-91.151901,0
+1935,Plank @ Denham - N,30.504396,-91.151367,0
+1936,Plank @ Cannon - N,30.505186,-91.151115,0
+1937,Plank @ Dawson - N,30.506802,-91.15049,0
+1938,Airline @ Foster - S,30.50852,-91.140778,0
+1939,McClelland @ Airline - S,30.505648,-91.135498,0
+1940,McClelland @ Tolbert - S,30.504175,-91.135475,0
+1941,Airline @ McClelland Dollar General - N,30.506636,-91.136009,0
+1942,Airline @ Foster - N,30.508696,-91.14064,0
+1943,Airline @ Beechwood - N,30.509188,-91.142761,0
+1944,Airline @ Plank Exit - N,30.509499,-91.145836,0
+1945,Plank @ Cannon - S,30.505905,-91.150955,0
+1946,Plank @ Denham - S,30.50477,-91.151398,0
+1947,Plank @ J H Cooney - S,30.503307,-91.151917,0
+1948,Plank @ Greenwell - S,30.502333,-91.152237,0
+1949,Plank @ Amarillo - S,30.500614,-91.15287,0
+1950,Plank @ Hollywood - S,30.499636,-91.153221,0
+1951,Plank @ Riley - S,30.49877,-91.153503,0
+1952,Plank @ Delmont Village - S,30.495577,-91.154625,0
+1953,Plank @ Sycamore - S,30.494707,-91.154945,0
+1954,Plank @ Evangeline - S,30.492857,-91.155579,0
+1955,Plank @ Clayton - S,30.490829,-91.156258,0
+1956,Plank @ Dayton - S,30.488535,-91.157082,0
+1957,Plank @ Pluskat - S,30.487446,-91.157478,0
+1958,Plank @ Weller - S,30.486008,-91.157997,0
+1959,Plank @ Mohican - S,30.485157,-91.158287,0
+1960,Plank @ Winnebago - S,30.483501,-91.158897,0
+1961,Plank @ Wyandotte - S,30.482136,-91.159325,0
+1962,Plank @ Calumet - S,30.480307,-91.159966,0
+1963,Plank @ Winbourne - S,30.478479,-91.160645,0
+1964,Plank @ Huron - S,30.477432,-91.16098,0
+1965,Plank @ Brady - S,30.474777,-91.161926,0
+1966,Plank @ Dalton - S,30.473654,-91.162338,0
+1967,Plank @ Seneca - S,30.471365,-91.163155,0
+1968,Plank @ Choctaw - S,30.47032,-91.163513,0
+1969,Plank @ Adams - S,30.46867,-91.164063,0
+1970,Plank @ Fairfields - S,30.466784,-91.164742,0
+1971,22nd @ North - S,30.453238,-91.166183,0
+1972,Florida @ Fernwood - W,30.452288,-91.1007,0
+1973,Florida @ Wooddale - W,30.452057,-91.104897,0
+1974,Florida @ Lobdell - W,30.451859,-91.11171,0
+1975,Lobdell @ Bon Carre/Kornmyer - N,30.453587,-91.112038,0
+1976,Lobdell @ Realtors Ave - N,30.455715,-91.112137,0
+1977,Harry Dr @ Lobdell - W,30.457722,-91.113579,0
+1978,Harry Dr@ N Bon Marche Dr - W,30.457455,-91.115746,0
+1979,Harry Dr @ Monet Dr - W,30.457182,-91.117226,0
+1980,Harry Dr @ Donmoor - W,30.457092,-91.118492,0
+1981,Harry Dr @ Plaza Apartments - W,30.45706,-91.121399,0
+1982,Harry Dr @ N Carrollton - W,30.456972,-91.12365,0
+1983,Harry Dr @ Ardenwood - W,30.45685,-91.126823,0
+1984,Ardenwood @ Ardenwood Apartments - S,30.454741,-91.127541,0
+1985,Ardenwood @ Florida - S,30.451815,-91.127518,0
+1986,Florida @ LA Dept. of Social Services - W,30.451298,-91.128716,0
+1987,Florida @ Fairfax - W,30.451143,-91.133141,0
+1988,Florida @ BRCC - W,30.451092,-91.135483,0
+1989,Florida @ Foster - W,30.450935,-91.139771,0
+1990,Florida @ N. Beck - W,30.450653,-91.145462,0
+1991,Florida @ Tuscaloosa - W,30.450649,-91.147346,0
+1992,Florida @ Live Oak - W,30.450617,-91.14888,0
+1993,Florida @ Baton Rouge General - W,30.450447,-91.152283,0
+1994,Florida @ Acadian - W,30.450369,-91.15448,0
+1995,Florida @ Connell - W,30.450272,-91.157089,0
+1996,Florida @ Eugene - W,30.450207,-91.160759,0
+1997,Florida @ N 24th - W,30.450096,-91.163574,0
+1999,Florida @ 19th - W,30.449921,-91.169182,0
+2000,Florida @ St Vincent de Paul - W,30.449821,-91.172951,0
+2001,Florida @ 13th - W,30.449677,-91.175774,0
+2002,Florida @ 12th - W,30.449701,-91.177643,0
+2003,Florida @ 10th - W,30.449635,-91.179504,0
+2005,Florida @ 5th - W,30.449484,-91.185783,0
+2006,Florida Blvd @ 5th St - E,30.449324,-91.185989,0
+2007,Florida @ Post Office - E,30.449389,-91.182549,0
+2008,Florida @ 9th - E,30.449471,-91.181335,0
+2009,Florida @ 12th - E,30.449659,-91.176697,0
+2010,Florida @ St Vincent De Paul - E,30.449692,-91.172913,0
+2011,Florida @ 19th - E,30.449842,-91.169403,0
+2013,Florida @ Eugene - E,30.450098,-91.161087,0
+2014,Florida @ Gebelin - E,30.450195,-91.158073,0
+2015,Florida @ Kernan - E,30.450253,-91.156052,0
+2016,Florida @ Acadian - E,30.450277,-91.154961,0
+2017,Florida @ Baton Rouge General - E,30.450357,-91.152626,0
+2018,Florida @ Jasmine - E,30.450436,-91.149719,0
+2019,Florida @ N Leo - E,30.450516,-91.146507,0
+2020,Florida @ N. Beck - E,30.45063,-91.143166,0
+2021,Florida @ Foster - E,30.450701,-91.140625,0
+2022,Florida @ BRCC - E,30.450869,-91.134544,0
+2024,Ardenwood @ BREC Headquarters - N,30.452974,-91.127319,0
+2025,Ardenwood @ Ardenwood Apartments - N,30.455084,-91.127403,0
+2026,Ardenwood @  Harry - N,30.456675,-91.127457,0
+2027,Harry Dr @ Carrollton - E,30.456894,-91.123833,0
+2028,Harry Dr @ Plaza Apartments - E,30.456984,-91.121353,0
+2029,Harry Dr @ Donmoor - E,30.457067,-91.118721,0
+2030,Harry Dr @ Holmes - E,30.457214,-91.11676,0
+2031,Harry Dr @ N Bon Marche Dr - E,30.457327,-91.115929,0
+2032,Harry Dr @  Lobdell - E,30.457651,-91.112862,0
+2033,Lobdell @ Bon Carre/Kornmyer - S,30.454315,-91.112274,0
+2034,Florida @ Lobdell - E,30.451593,-91.111298,0
+2035,Florida @ Wooddale - E,30.451822,-91.105232,0
+2036,Florida @ Fernwood - E,30.451984,-91.101349,0
+2037,Oak Villa @ Mall Way - N,30.455408,-91.087166,0
+2044,Staring @ Town South Shopping Center - S,30.39209,-91.111313,0
+2045,Staring @ Hyacinth Ave - S,30.385782,-91.112564,0
+2046,Staring @ Boone - S,30.376656,-91.118362,0
+2047,Staring @ Menlo Drive - S,30.372599,-91.120872,0
+2048,Staring @ Staring Hill Shopping Center - S,30.37019,-91.122337,0
+2049,Highland @ Gardere - E,30.367479,-91.121117,0
+2050,Gardere @ St Jude Church - S,30.365417,-91.120392,0
+2051,Gardere @ Cedar Apts - S,30.362644,-91.122612,0
+2052,Gardere @ Burbank/Bayou Fountain - S,30.361893,-91.123062,0
+2056,Coy @ Broussard Plaza Apt - E,30.357586,-91.121468,0
+2057,Coy @ GSRI - E,30.357079,-91.120384,0
+2059,GSRI @ Jade - W,30.354795,-91.123001,0
+2061,GSRI @ Seaboard - W,30.354788,-91.125748,0
+2062,GSRI @ Starboard - W,30.357428,-91.131294,0
+2063,GSRI @ Mast - W,30.357971,-91.132469,0
+2064,Port @ GSRI - S,30.358076,-91.134018,0
+2065,Port @ Stern - S,30.356491,-91.134979,0
+2066,Port @ Ned - S,30.355513,-91.135651,0
+2067,Ned @ Mariner - E,30.354094,-91.133018,0
+2068,Ned @ Anne Marie - E,30.3533,-91.131058,0
+2069,Ned @ Gardere - E,30.352728,-91.130089,0
+2072,Coy @ Gardere - N,30.359097,-91.124588,0
+2073,Gardere @ Burbank/Bayou Fountain - N,30.360949,-91.123497,0
+2074,Gardere @ Teakwood Village Apts - N,30.362253,-91.122734,0
+2076,Highland @ Heatherwood - W,30.367718,-91.121353,0
+2077,Staring @ Staring Plaza Vet Center - N,30.36961,-91.122414,0
+2078,Staring @ High Point Road - N,30.373989,-91.119675,0
+2079,Staring @ Boone Drive - N,30.376753,-91.11808,0
+2080,Staring @ Hyacinth Ave - N,30.38541,-91.112495,0
+2081,Staring @ Avis - N,30.386951,-91.111664,0
+2082,Staring @ Kings Hill - N,30.391817,-91.111076,0
+2090,Bluebonnet @ Bluebonnet Towers - S,30.384199,-91.095032,0
+2091,Bluebonnet @ Auto Express - S,30.378469,-91.098511,0
+2092,Bluebonnet @ Surgical Center - S,30.375921,-91.099602,0
+2093,Bluebonnet @ North Oak Hills - S,30.369894,-91.102608,0
+2094,Bluebonnet @ Glenstone - S,30.367638,-91.103943,0
+2095,Bluebonnet @ Library - S,30.36557,-91.104599,0
+2096,Bluebonnet @ La Carreta - S,30.356575,-91.109238,0
+2097,Burbank @ Bluebonnet Albertsons - S,30.354853,-91.111549,0
+2098,Burbank @ Westhaven - W,30.355453,-91.113144,0
+2099,Burbank @ Bluebonnet Place Apts - W,30.356558,-91.115669,0
+2100,Burbank @ Summerwood - W,30.358269,-91.119247,0
+2101,Highland @ Staring Hill - w,30.369556,-91.123566,0
+2102,Highland @ Magnolia Woods - w,30.371525,-91.126869,0
+2103,Highland @ Albert Hart - w,30.373018,-91.130905,0
+2104,Highland @ Ace Hardware - w,30.377359,-91.137314,0
+2105,Highland @ Kenilworth Center - w,30.378571,-91.13887,0
+2106,Highland @  Dentation - w,30.381672,-91.143318,0
+2107,Highland @ Woodgate - w,30.383816,-91.146065,0
+2108,Highland @ Woodstone - w,30.385448,-91.148209,0
+2109,Highland @ Nelson - w,30.387262,-91.150688,0
+2110,Highland @ Sunset - w,30.388329,-91.152191,0
+2111,Highland @ Leeward - w,30.390455,-91.155235,0
+2112,Highland @ Burgin - w,30.393137,-91.15873,0
+2113,Highland @ Lee - w,30.394207,-91.160049,0
+2114,Highland @ Highland Village Shopping Center - w,30.395132,-91.161316,0
+2115,Highland @ Plantation Apts - w,30.396315,-91.162827,0
+2116,Highland @ Clara - w,30.399771,-91.167274,0
+2117,Highland @ Delgado - w,30.400867,-91.168716,0
+2118,Highland @ LSU Ave - w,30.402067,-91.170273,0
+2119,Highland @ Amherst - w,30.403578,-91.17218,0
+2120,Highland @ Parker - w,30.40444,-91.173325,0
+2121,Highland @ Stadium - N,30.408785,-91.176025,0
+2122,Highland @ S Campus - N,30.411106,-91.176132,0
+2123,Highland @ Union Square - N,30.412397,-91.176117,0
+2124,Highland @ Dalrymple - N,30.415659,-91.176315,0
+2125,Highland @ Chimes - N,30.417103,-91.176361,0
+2126,Highland @ State - N,30.418137,-91.176498,0
+2127,Highland @ Aster - N,30.42041,-91.177513,0
+2128,Highland @ Roosevelt - N,30.421661,-91.178108,0
+2129,Highland @ East Mckinley - N,30.42366,-91.179001,0
+2130,Highland @ East Buchanan - N,30.424856,-91.179581,0
+2131,Highland @ W. Harding Police Station - N,30.426241,-91.180183,0
+2132,Highland @ Harrison - N,30.42918,-91.181541,0
+2133,Highland @ Washington - N,30.430832,-91.182487,0
+2134,Highland @ Mary - N,30.43211,-91.183174,0
+2135,Highland @ Chatsworth - N,30.433485,-91.183395,0
+2136,Highland @ Terrace - N,30.435951,-91.185013,0
+2137,Highland @ Julia - N,30.436977,-91.185699,0
+2138,Highland @ South Blvd. - N,30.439283,-91.186356,0
+2139,Highland @ Mayflower - N,30.440708,-91.186417,0
+2141,St Ferdinand @ Government - S,30.443501,-91.186615,0
+2142,St Ferdinand @ Government Law Office - S,30.442591,-91.186546,0
+2143,St Ferdinand @ South Blvd - S,30.439812,-91.186455,0
+2144,Highland @ Julia - S,30.437218,-91.185905,0
+2145,Highland @ Veta - S,30.435692,-91.184959,0
+2146,Highland @ Chatsworth - S,30.43401,-91.183838,0
+2147,Highland @ Mary - S,30.432287,-91.183372,0
+2148,Highland @ Washington - S,30.431202,-91.182899,0
+2149,Highland @ Harrison - S,30.429346,-91.181725,0
+2150,Highland @ Polk - S,30.427673,-91.181007,0
+2151,Highland @ West Harding - S,30.426237,-91.180344,0
+2152,Highland @ W Mckinley - S,30.423876,-91.179222,0
+2153,Highland @ Roosevelt - S,30.421982,-91.178368,0
+2154,Highland @ Aster - S,30.419992,-91.177444,0
+2155,Highland @ State - S,30.41828,-91.176659,0
+2156,Highland @ W Chimes - S,30.417423,-91.176506,0
+2157,Highland @ Dalrymple - S,30.415998,-91.17643,0
+2158,Highland @ Raphael Semmes - S,30.41354,-91.176361,0
+2159,Highland @ Campus - S,30.4116,-91.176216,0
+2160,Highland @ Stadium - S,30.409216,-91.17614,0
+2161,Highland @ Parker - S,30.404764,-91.173897,0
+2162,Highland @ E. Boyd - E,30.403681,-91.172531,0
+2163,Highland @ LSU Ave Shelter - E,30.402634,-91.17115,0
+2164,Highland @ Delgado - E,30.401098,-91.169151,0
+2165,Highland @ Plantation Apts - E,30.396536,-91.163254,0
+2166,Highland @ Highland Village Shopping Center - E,30.395042,-91.161339,0
+2167,Highland @ Lee - E,30.393951,-91.159966,0
+2168,Highland @ Ben Hur - E,30.393072,-91.158791,0
+2169,Highland @ University Highlands - E,30.391651,-91.156937,0
+2170,Highland @ Sunset - E,30.38858,-91.152695,0
+2171,Highland @ Nelson - E,30.387274,-91.150848,0
+2172,Highland @ Woodstone - E,30.385693,-91.148682,0
+2173,Highland @ Woodgate - E,30.38389,-91.146324,0
+2174,Highland @ Highland Park - E,30.379171,-91.140152,0
+2175,Highland @ Kenilworth Center - E,30.378559,-91.139153,0
+2176,Highland @ Ace Hardware - E,30.377348,-91.137566,0
+2177,Highland @ Albert Hart - E,30.373186,-91.131386,0
+2178,Highland @ Magnolia Woods - E,30.371567,-91.127197,0
+2179,Highland @ Staring - E,30.369055,-91.123146,0
+2180,Burbank @ GSRI - E,30.358215,-91.119789,0
+2182,Bluebonnet @ Burbank Walgreens - N,30.355156,-91.109535,0
+2183,Bluebonnet @ Library - N,30.365572,-91.104324,0
+2184,Bluebonnet @ North Oak Hills - N,30.369408,-91.102669,0
+2185,Bluebonnet @ Linkwood - N,30.373976,-91.09977,0
+2186,Bluebonnet @ Post Office - N,30.376259,-91.099197,0
+2187,Bluebonnet @ Perkins Rowe CVS - N,30.379751,-91.097427,0
+2188,Bluebonnet @ World Ministry - N,30.383867,-91.094864,0
+2189,Bluebonnet @ Anselmo - N,30.387026,-91.093773,0
+2190,Highland @ Clara - E,30.399881,-91.167519,0
+2191,McClelland @ LSU Urgent Care - N,30.508883,-91.135277,0
+2209,Greenwell St @ Denova - W,30.501514,-91.11718,0
+2210,Greenwell St @ Trailer Park - W,30.501472,-91.118568,0
+2211,Greenwell St @ Landis - W,30.501438,-91.120796,0
+2212,Greenwell St @ Silverleaf - W,30.502443,-91.124947,0
+2214,Baker Blvd @ Alabama St - E,30.594172,-91.164917,0
+2216,Alabama @ Jefferson - S,30.590694,-91.165215,0
+2217,Alabama @ Washington St - S,30.589052,-91.165535,0
+2218,Groom @ Epperson - E,30.5879,-91.163887,0
+2219,Groom @ Myrtle - E,30.587662,-91.16143,0
+2220,Groom @ Daniel - E,30.587763,-91.158302,0
+2221,Groom @ Patricia - E,30.58774,-91.155647,0
+2222,Groom @ Husband - E,30.587206,-91.152481,0
+2223,Groom @ McHugh - E,30.586842,-91.149757,0
+2224,Groom @ Sherron - E,30.58676,-91.146797,0
+2225,Groom @ Shilo - E,30.586723,-91.143372,0
+2226,Groom @ Chemin - E,30.586422,-91.14077,0
+2227,Groom @ Baker Middle School - E,30.583897,-91.135025,0
+2228,Groom @ Clermont - E,30.582588,-91.132042,0
+2229,Groom @ Walmart - E,30.581911,-91.130592,0
+2230,Groom @ Plank - E,30.580225,-91.12693,0
+2250,Hwy 19 @ Piggly Wiggly Shopping Center - S,30.577059,-91.170288,0
+2261,Groom Rd @ Walmart - W,30.581745,-91.12999,0
+2262,Hillcrest Memorial Gardens - W,30.582376,-91.131271,0
+2263,Groom Rd @ Baker Middle School - W,30.583973,-91.13501,0
+2264,Groom @ Woodward - W,30.584364,-91.135803,0
+2265,Groom @ Chemin - W,30.586388,-91.140442,0
+2266,Groom @ Shilo - W,30.586773,-91.142784,0
+2267,Groom @ Hazel Oak - W,30.586832,-91.1465,0
+2268,Groom @  McHugh - W,30.586901,-91.149567,0
+2269,Groom @ Husband - W,30.587292,-91.152451,0
+2270,Groom @ Patricia - W,30.587776,-91.155289,0
+2271,Groom @ Daniel - W,30.58786,-91.158043,0
+2272,Groom @ Myrtle - W,30.587797,-91.161087,0
+2273,Groom @ Epperson St - W,30.587919,-91.163597,0
+2274,Groom @ Alabama - W,30.588144,-91.165482,0
+2276,Hwy 19 @ Adams - N,30.589888,-91.167686,0
+2277,Hwy 19 @ Jackson St - N,30.592995,-91.167137,0
+2278,Hwy 19 @ Baker Blvd - N,30.59437,-91.166824,0
+2279,Swan @ Scenic Hwy - E,30.523649,-91.181259,0
+2281,Harding @ Helene / Mc Donald's - E,30.520456,-91.176941,0
+2282,Harding @ Somerset - E,30.52055,-91.173241,0
+2283,Harding @ Pembroke - E,30.520754,-91.168854,0
+2284,Harding @ Nottingham - E,30.520983,-91.164948,0
+2285,Harding @ Howell Blvd - E,30.521273,-91.157036,0
+2286,Harding @ Burger King - E,30.521349,-91.155312,0
+2287,Harding @ Ihop - E,30.521442,-91.153069,0
+2288,Harding @ Social Security Administration - E,30.521557,-91.148056,0
+2289,Harding @ Plank Road - E,30.521622,-91.145988,0
+2290,Plank @ 72nd - S,30.5158,-91.14753,0
+2291,Plank @ Monte Sano - S,30.513475,-91.148338,0
+2292,Airline Hwy @ Beechwood - S,30.509083,-91.143936,0
+2293,Greenwell St @ Plumbers & Steamfitters - E,30.502266,-91.133789,0
+2294,Greenwell St @ Airline Hwy - E,30.502293,-91.131454,0
+2295,Airline Hwy @ St Katherine - S,30.499262,-91.129166,0
+2296,Airline Hwy @ Hanks Dr - S,30.495319,-91.126396,0
+2297,Airline Hwy @ Blanchard Trailer Sales - S,30.492781,-91.124481,0
+2298,Airline Hwy @ Prescott/Mr Poboy - S,30.489399,-91.122078,0
+2299,Airline Hwy @ Bicentennial - S,30.486448,-91.119987,0
+2300,Airline Hwy @ Raceway - S,30.484005,-91.118248,0
+2301,Airline Hwy @ Hi Nabor Supermarket - S,30.481277,-91.116318,0
+2302,Airline Service Rd @ Winbourne - S,30.479258,-91.115051,0
+2303,Airline Service Rd @ Greenwell Springs Road - S,30.475306,-91.11631,0
+2304,Wooddale @ Probation & Parole - S,30.474499,-91.116241,0
+2305,Wooddale @ Office Of Family Support - S,30.473248,-91.116196,0
+2306,Wooddale @ Exchange Pl. - S,30.464697,-91.113007,0
+2307,Tom Dr @ Beaumont - E,30.464926,-91.107986,0
+2308,Tom Dr @ Airline Hwy - E,30.466015,-91.105957,0
+2309,Tom Dr @ Grainger - E,30.467535,-91.103172,0
+2312,Oak Villa Blvd @ Walmart - S,30.462353,-91.089424,0
+2313,Crossway @ Cortana Pl - S,30.459669,-91.089745,0
+2315,Tom Dr @ Commerce Ave - W,30.468081,-91.101578,0
+2316,Tom Dr @ Airline Hwy - W,30.466576,-91.105156,0
+2318,Wooddale @  Camelot College - N,30.474022,-91.115944,0
+2320,Airline Hwy @ Winbourne - N,30.480429,-91.115364,0
+2321,Airline Hwy @ Crown Efficiency - N,30.481371,-91.116104,0
+2322,Airline Hwy @ Expert Sound - N,30.482706,-91.117073,0
+2323,Airline Hwy @  Bicentennial - N,30.486967,-91.120087,0
+2324,Airline Hwy @ Prescott /Don's Seafood - N,30.489956,-91.122223,0
+2325,Airline Hwy @ Evangeline - N,30.493467,-91.124733,0
+2326,Airline Hwy @ Hanks Dr - N,30.496094,-91.126595,0
+2327,Airline Hwy @ St. Katherine - N,30.499365,-91.128944,0
+2328,Airline Hwy @ Greenwell St - N,30.501514,-91.13047,0
+2329,Plank @ Monte Sano - N,30.512777,-91.148346,0
+2330,Plank @ Monarch Ave - N,30.51532,-91.147491,0
+2331,Plank @ Cadillac - N,30.517305,-91.146774,0
+2332,Plank @ Packard - N,30.518414,-91.146385,0
+2333,Harding Blvd @ Social Security Administration - W,30.521755,-91.147949,0
+2334,Harding Blvd @ Ihop - W,30.52161,-91.152496,0
+2335,Harding Blvd @ Howell Blvd - W,30.521509,-91.156326,0
+2336,Harding Blvd @ Nottingham - W,30.521166,-91.164986,0
+2337,Harding Blvd @ Heath - W,30.520945,-91.168266,0
+2338,Harding Blvd @ Jones - W,30.5208,-91.171677,0
+2339,Harding Blvd @ Helene - W,30.520615,-91.176521,0
+2340,Harding Blvd @ Scenic Hwy - W,30.520542,-91.178894,0
+2341,Harding Blvd @ Southern Credit Union - W,30.520298,-91.188881,0
+2342,Harding Blvd @ Elton C Harrison - W,30.520229,-91.191826,0
+2344,Oak Villa @ Tom Dr - N,30.463402,-91.089622,0
+2345,Oak Villa @ Car Quest - N,30.467581,-91.088776,0
+2352,N Sherwood Forest Blvd @ Richcroft - N,30.473539,-91.05793,0
+2353,N Sherwood Forest Blvd @ BREC Park - N,30.477554,-91.058327,0
+2354,N Sherwood Forest Blvd @  Richcroft - S,30.47386,-91.058167,0
+2364,Florida Blvd Service Rd EB @ Marque Ann/Circle K - W,30.461323,-91.043922,0
+2365,Florida Service Rd EB @ St Vincent Paul - W,30.460766,-91.04744,0
+2366,Florida Service Rd EB @ N Little John - W,30.460245,-91.051132,0
+2367,Florida Service Rd EB @ Corner Square - W,30.45953,-91.055153,0
+2368,S Sherwood Forest Blvd @ Florida/Fancy Cuts - N,30.460274,-91.058022,0
+2369,S Sherwood Forest Blvd @ Glenda - N,30.462078,-91.058037,0
+2370,S Sherwood Forest Blvd @ Catalpa - N,30.465418,-91.058037,0
+2371,S Sherwood Forest Blvd @ Bard - N,30.467836,-91.058022,0
+2372,S Sherwood Forest Blvd @ Stan Ave - N,30.469719,-91.057999,0
+2373,S Sherwood Forest Blvd @ Darryl - N,30.470806,-91.057991,0
+2379,Oak Villa @ Choctaw - S,30.470831,-91.089188,0
+2380,Oak Villa @ Car Quest - S,30.467518,-91.088921,0
+2381,Oak Villa @ Tom - S,30.463825,-91.089767,0
+2389,Summa @ Butter Creek - W,30.397932,-91.097977,0
+2390,Summa @ Mancuso - W,30.399137,-91.100502,0
+2391,Summa @ Essen - W,30.401398,-91.1045,0
+2392,Essen Ln @ OLOL Emergency - N,30.403589,-91.104118,0
+2393,Jefferson @ Sunrise Senior Living - E,30.419304,-91.095856,0
+2394,Drusilla @ Interline - N,30.420313,-91.088074,0
+2395,Drusilla @ Keaty - N,30.421886,-91.087166,0
+2396,Drusilla @ Bordeaux - N,30.424078,-91.085915,0
+2397,Drusilla @ Wesson - N,30.425772,-91.084991,0
+2398,Drusilla @ Brookline - N,30.428177,-91.083992,0
+2399,Drusilla @ Common - N,30.429962,-91.083977,0
+2400,Old Hammond Shopping Center - W,30.43103,-91.085159,0
+2401,Old Hammond @ Tara - W,30.431084,-91.091072,0
+2402,Tara @ Church - N,30.43228,-91.091263,0
+2403,Tara @ Whitehall - N,30.434248,-91.091873,0
+2404,Tara @ Trinity Ave - N,30.437296,-91.093979,0
+2405,Tara @ Wakefield - N,30.441181,-91.095985,0
+2406,Goodwood @ Airline/Old Woman's Hospital - N,30.442736,-91.091087,0
+2407,Tara @ Trinity Ave - S,30.4373,-91.094261,0
+2408,Tara @ Whitehall - S,30.434313,-91.092171,0
+2409,Old Hammond @ E Contour - E,30.430902,-91.087898,0
+2410,Drusilla @ Hampton Court - S,30.428574,-91.084099,0
+2411,Drusilla @ Bordeaux - S,30.424171,-91.085907,0
+2412,Drusilla @ Interline - S,30.420549,-91.088165,0
+2413,Drusilla @ Hi Neighbor - S,30.419077,-91.088913,0
+2414,Essen @ OLOL Emergency - S,30.404116,-91.104027,0
+2415,Summa @ Essen - E,30.401264,-91.104568,0
+2416,Summa @  Mancuso - E,30.399258,-91.100945,0
+2417,Summa @ Amber Terrace - E,30.397577,-91.097534,0
+2420,Perkins Rd @ Shell - E,30.378847,-91.097321,0
+2421,Perkins Rd @ Grand Ave - E,30.377716,-91.095001,0
+2422,Perkins Rd @ Post Office - E,30.377094,-91.093704,0
+2423,Perkins Rd @ Great Oak - E,30.374641,-91.090225,0
+2424,Perkins Rd @ Oakdale - E,30.372093,-91.086479,0
+2425,Perkins Rd @ Windermere - E,30.369526,-91.07856,0
+2426,Perkins Rd @ Windermere Center - E,30.368921,-91.076866,0
+2427,Siegen Ln @ Winn Dixie - N,30.370134,-91.073318,0
+2428,Siegen Ln @ Chateau Mein Apt - N,30.372429,-91.071869,0
+2429,North Mall Dr @ Walmart - W,30.37595,-91.063103,0
+2430,North Mall Dr @ Sams - W,30.376696,-91.064186,0
+2431,North Mall Dr @ Zapata's - W,30.37781,-91.065414,0
+2432,Siegen Ln @ Reiger Rd Chevron - N,30.384674,-91.064445,0
+2433,Siegen Ln @ Industriplex Blvd - N,30.390114,-91.061104,0
+2434,Siegen Ln @ Team Honda - N,30.391655,-91.060188,0
+2435,Siegen Ln @ Cloverland - N,30.394833,-91.058418,0
+2436,Sherwood Forest @ Ford - N,30.399687,-91.05336,0
+2437,Sherwood Forest @ Wentling Ave - N,30.402889,-91.052231,0
+2438,Sherwood Forest @ Market Place Ave - N,30.405634,-91.051498,0
+2439,Sherwood Forest @ Lazy Boy - N,30.407314,-91.051392,0
+2440,Sherwood Forest @ Parkmount Blvd - N,30.408779,-91.051407,0
+2441,Sherwood Mall Shopping Center @ Coursey - N,30.413109,-91.05143,0
+2442,Sherwood Forest Blvd @ Lake Sherwood Ave North - N,30.417839,-91.051529,0
+2443,Sherwood Forest Blvd @ Newcastle - N,30.420061,-91.051506,0
+2444,Sherwood Forest Blvd @  Longridge Ave - N,30.42211,-91.051468,0
+2445,Sherwood Forest Blvd @ Justice Ave - N,30.423948,-91.051483,0
+2446,Sherwood Forest Blvd @ Bricksome - N,30.425959,-91.052254,0
+2447,Sherwood Forest Blvd @ Auburn Dr - N,30.426853,-91.053886,0
+2448,Sherwood Forest Blvd @ South Harrell Ferry - N,30.428242,-91.055862,0
+2449,Sherwood Forest Blvd @ Reulet - N,30.431601,-91.057068,0
+2450,Sherwood Forest Blvd @ North Harrells Ferry - N,30.432573,-91.057289,0
+2451,Sherwood Forest Blvd @ Old Hammond/Sonic - N,30.435984,-91.057304,0
+2452,Sherwood Forest Blvd @ The Oaks - N,30.438883,-91.057327,0
+2453,Sherwood Forest Blvd @ Ashbourne - N,30.443022,-91.057381,0
+2454,Sherwood Forest Blvd @ Sheraton - N,30.446218,-91.05764,0
+2455,Sherwood Forest Blvd @ Sherbrook Ave - N,30.450449,-91.057953,0
+2456,Sherwood Forest Blvd @ Glenhaven Dr - N,30.453617,-91.058067,0
+2457,Sherwood Forest Blvd @ Archery Dr - N,30.456415,-91.058052,0
+2459,Florida Service Rd EB @ Trinity Lutheran Church - W,30.458529,-91.061638,0
+2460,Florida Service Rd EB @ Harvey - W,30.45783,-91.066154,0
+2461,Florida Service Rd EB @ Sam Dr - W,30.45752,-91.068031,0
+2462,Florida Service Rd EB @ Sharp - W,30.456963,-91.071968,0
+2463,Florida Service Rd EB @ Madeline Ct - W,30.456005,-91.077347,0
+2464,Florida Service Rd EB @ Green Oaks - W,30.455727,-91.079292,0
+2465,Florida Service Rd EB @ Cora Dr - W,30.455421,-91.081192,0
+2466,Mallway Ave @ Oak Villa - E,30.456518,-91.087425,0
+2467,Florida Blvd Service Rd EB @ Excel Finance - E,30.454121,-91.086311,0
+2468,Florida Service Rd WB @ Monterrey - E,30.454391,-91.084641,0
+2469,Florida Service Rd WB @ Cora - E,30.454891,-91.081429,0
+2470,Florida Service Rd WB @ Capital One - E,30.455175,-91.079666,0
+2471,Florida Service Rd WB @ Marilyn Dr - E,30.455591,-91.077118,0
+2472,Florida Service Rd WB @ Orleans Plaza - E,30.4559,-91.075104,0
+2473,Florida Service Rd WB @ Sharp - E,30.456362,-91.072304,0
+2474,Florida Service Rd WB @ Popeys - E,30.45731,-91.066345,0
+2475,Florida Service Rd WB @ McGehee - E,30.457554,-91.064774,0
+2476,Florida Service Rd WB @ Rabenhorst Funeral Home - E,30.458097,-91.061356,0
+2478,Sherwood Forest Blvd @ Florida/Sherwood Plaza - S,30.457588,-91.058296,0
+2479,Sherwood Forest Blvd @ Mollylea - S,30.452768,-91.058235,0
+2480,Sherwood Forest Blvd @ Sherbrook Ave - S,30.450401,-91.058243,0
+2481,Sherwood Forest Blvd @ Sheraton - S,30.446592,-91.057961,0
+2482,Sherwood Forest Blvd @ Ashbourne - S,30.443247,-91.057632,0
+2483,Sherwood Forest Blvd @ Major Oak - S,30.441368,-91.057564,0
+2484,Sherwood Forest Blvd @ Old Hammond Hwy - S,30.437145,-91.057564,0
+2485,Sherwood Forest Blvd @ Muriel - S,30.434595,-91.057564,0
+2486,Sherwood Forest Blvd @ Waffle House - S,30.431997,-91.057358,0
+2487,Sherwood Forest Blvd @ Dunkin Donuts - S,30.427059,-91.055115,0
+2488,Sherwood Forest Blvd @  W Bricksome - S,30.426062,-91.052704,0
+2489,Sherwood Forest Blvd @ Justice Ave Shopping Center - S,30.424749,-91.051796,0
+2490,Sherwood Forest Blvd @ Piccadilly - S,30.42264,-91.051704,0
+2491,Sherwood Forest Blvd @ Newcastle - S,30.420469,-91.051727,0
+2492,Sherwood Forest Blvd @ Lake Sherwood Ave - S,30.417681,-91.051704,0
+2493,Sherwood Mall Shopping Center @ Coursey - S,30.41284,-91.051689,0
+2494,Sherwood Forest Blvd @ Coursey - S,30.410229,-91.051682,0
+2495,Sherwood Forest Blvd @ Castlebook Apt - S,30.408268,-91.051712,0
+2496,Sherwood Forest Blvd @ Sherwood Forest Ct - S,30.407358,-91.051682,0
+2497,Sherwood Forest Blvd @ S Sherwood Square - S,30.403189,-91.052353,0
+2498,Sherwood Forest Blvd @ All Star Chevrolet - S,30.399925,-91.053383,0
+2499,Siegen Ln @ Cloverland - S,30.395458,-91.05822,0
+2500,Siegen Ln @ Cedar Park - S,30.391726,-91.060501,0
+2501,Siegen Ln @ Industriplex Blvd - S,30.390079,-91.061485,0
+2502,Siegen Ln @ The Storage Unit - S,30.371901,-91.072433,0
+2503,Siegen Ln @ Perkins - S,30.368475,-91.074516,0
+2504,Perkins @ Windermere - W,30.369421,-91.077927,0
+2505,Perkins @ Oakbrook - W,30.370392,-91.080643,0
+2506,Perkins @ Great Oak - W,30.374428,-91.089638,0
+2507,Perkins @ Rod Laver - W,30.376316,-91.091888,0
+2508,Perkins @ Fresh Market - W,30.377174,-91.093353,0
+2509,Perkins @ Grand Ave - W,30.377789,-91.094673,0
+2510,Airline Hwy @ Connells Village - S,30.447783,-91.092361,0
+2511,Airline Hwy @ Toyota - S,30.442089,-91.088463,0
+2512,Airline Hwy @ Farm Bureau - S,30.437628,-91.085197,0
+2513,Airline Hwy @ Albertsons - S,30.43289,-91.081772,0
+2518,Jefferson Hwy @ Bluebonnet/Inniswold Dr - E,30.410715,-91.077057,0
+2519,Jefferson Hwy @ Floynell Dr - E,30.409796,-91.073601,0
+2520,Jefferson Hwy @ Jefferson United Methodist Church - E,30.409199,-91.068871,0
+2521,Jefferson Hwy @ Ez Docks - E,30.408213,-91.066124,0
+2525,Coursey Blvd @ Sherwood/Dingos - E,30.411041,-91.053894,0
+2526,Coursey Blvd @ Oak Point Center - E,30.411018,-91.04892,0
+2527,Coursey Blvd @ Paul Mitchell - E,30.411482,-91.04438,0
+2528,Coursey Blvd @ Shadeland Dr - E,30.41086,-91.041626,0
+2529,Coursey Blvd @ Woodlyn - E,30.410372,-91.038292,0
+2530,Coursey Blvd @ Millwood Dr - E,30.409027,-91.032372,0
+2531,Coursey Blvd @ Hickory Ridge Blvd - E,30.40803,-91.026161,0
+2532,Coursey Blvd @ Market St - E,30.408148,-91.019394,0
+2533,Coursey Blvd @ Jones Creek Rd - E,30.408657,-91.017258,0
+2534,George O'Neal @ O'Neal/Sleepy Hollow Dr - E,30.407534,-91.011703,0
+2535,O Neal Ln @ Dean Eye Care - N,30.409166,-91.008369,0
+2536,O Neal Ln @ Magnolia Trace Pkwy - N,30.413794,-91.009262,0
+2537,O Neal Ln @ M M Excavators - N,30.417957,-91.010017,0
+2538,O Neal Ln @ Tiger Car Wash - N,30.419834,-91.007622,0
+2539,O Neal Ln @ Manchester - N,30.424131,-91.007462,0
+2540,O Neal Ln @ O Reilly Auto Parts - N,30.427952,-91.007408,0
+2541,O Neal Ln @ Firewood - N,30.433947,-91.007423,0
+2542,O Neal Ln @ Regions Bank - N,30.43832,-91.007408,0
+2543,Ochsner Hospital,30.442614,-91.000862,0
+2545,O Neal Ln @ O Neal Plaza - S,30.437494,-91.007637,0
+2546,O Neal Ln @ Firewood - S,30.434393,-91.00766,0
+2547,O Neal Ln @ Prosys - S,30.427547,-91.007652,0
+2548,O Neal Ln @ Derby - S,30.423618,-91.007622,0
+2549,O Neal Ln @ King Bradford - S,30.421009,-91.007545,0
+2550,O Neal Ln @ Rivermist - S,30.418512,-91.009735,0
+2551,O Neal Ln @ Fawn Ridge - S,30.413437,-91.009354,0
+2552,George O'Neal/Rite Aid @ O Neal - W,30.407669,-91.009163,0
+2553,George O Neal Rd @ Jones Creek Rd - W,30.408329,-91.014328,0
+2554,Coursey Blvd @ Market St - W,30.408482,-91.018997,0
+2555,Coursey Blvd @ Hickory Ridge Blvd - W,30.408274,-91.025696,0
+2557,Coursey Blvd @ Stumberg - W,30.410255,-91.035759,0
+2558,Coursey Blvd @ Sherwood Acres Apt - W,30.410891,-91.040176,0
+2559,Coursey Blvd @ Lake Lawrence - W,30.411619,-91.046638,0
+2560,Coursey Blvd @ Gulf South Travel - W,30.411224,-91.049294,0
+2561,Coursey Blvd @ Sherwood/Vault Self Storage - W,30.411245,-91.053612,0
+2565,Jefferson Hwy @ Arnold Dr - W,30.408859,-91.067276,0
+2566,Jefferson Hwy @ Bea Dr - W,30.409555,-91.070358,0
+2567,Jefferson Hwy @ Jefferson Shadows Apt - W,30.410412,-91.075493,0
+2572,Airline Hwy @ Allstar Lanes - N,30.428782,-91.078461,0
+2573,Airline Hwy @ Affordable Dentures - N,30.430428,-91.079575,0
+2574,Airline Hwy @ Mobil - N,30.433451,-91.081802,0
+2575,Airline Hwy @ Delcourt Ave - N,30.436764,-91.084129,0
+2576,Airline Hwy @ Lindale - N,30.438612,-91.085503,0
+2577,Airline Hwy @ Goodwood Blvd - N,30.442162,-91.088005,0
+2578,Cortana Pl @ Promenade Ave - S,30.454935,-91.095284,0
+2580,Florida Service Rd WB @ Broadmoor Plantation - E,30.457083,-91.067703,0
+2581,Florida Service Rd WB @ Fortune Pawn Shop - E,30.459415,-91.053238,0
+2582,Florida Service Rd WB @ S Little John - E,30.459661,-91.051506,0
+2583,Florida Service Rd WB @ Hearts Ease - E,30.460079,-91.048836,0
+2584,Florida Service Rd WB @ Dirt Cheap - E,30.460295,-91.04763,0
+2585,Florida Service Rd WB @ Longbow - E,30.460499,-91.046349,0
+2586,Florida Service Rd WB @ Longbow Dr - E,30.46073,-91.0448,0
+2587,Florida Service Rd WB @ Montalbano - E,30.46117,-91.042015,0
+2588,Florida Service Rd @ Kia - E,30.461796,-91.038147,0
+2589,Florida Service Rd @ S Flannery - E,30.462255,-91.035385,0
+2590,Florida Service Rd @ Rushmore Dr - E,30.462931,-91.031082,0
+2591,Florida Service Rd WB @ Ponderosa - E,30.463488,-91.027565,0
+2592,Florida Service Rd WB @ Night RV Park - E,30.464298,-91.022301,0
+2593,Florida Service Rd WB @ Fontainebleau - E,30.464649,-91.019997,0
+2594,Florida Service Rd WB @ Gloria Dr - E,30.465614,-91.013969,0
+2595,Florida Service Rd WB @ O Neal Ln - E,30.466211,-91.010262,0
+2596,O Neal Ln @ Strain Rd - S,30.457335,-91.008469,0
+2597,O Neal Ln @ Woodwick Ave - S,30.4543,-91.008385,0
+2598,O Neal Ln @ Mobil - S,30.445593,-91.007675,0
+2603,O Neal Ln @ Hobby Lobby - N,30.445148,-91.007446,0
+2604,O Neal Ln @ Centurion Ave - N,30.45052,-91.007797,0
+2605,O Neal Ln @ Coliseum Ave - N,30.453869,-91.008186,0
+2606,O Neal Ln @ Strain - N,30.457024,-91.008263,0
+2607,O Neal Ln @ north of Old Hammond Hwy - N,30.461527,-91.008224,0
+2608,O Neal Ln @ Florida/Discount Bakery - N,30.465094,-91.009697,0
+2609,Florida Service Rd EB @ Gloria Dr/AAMCO Transmissions - W,30.466066,-91.014389,0
+2610,Florida Service Rd EB @ Chevrolet Harris - W,30.465174,-91.019829,0
+2611,Florida Service Rd EB @ Rushmore - W,30.463425,-91.030846,0
+2612,Florida Service Rd EB @ N Flannery - W,30.462763,-91.035088,0
+2613,Florida Service Rd EB @ Windsor - W,30.462276,-91.038002,0
+2614,Florida Service Rd EB @ Harco - W,30.461697,-91.041763,0
+2615,Florida Service Rd EB @ Green Oak - W,30.458145,-91.064285,0
+2616,Essen Ln @ Essen Park Ave - N,30.405403,-91.102921,0
+2617,Essen Park Ave @ V A Clinic - W,30.404333,-91.1007,0
+2618,Essen Park Ave @ Essen Ln - W,30.405123,-91.101929,0
+2619,Essen Ln @ Walgreen's - S,30.400936,-91.106071,0
+2620,Essen Ln @ Picardy - S,30.398823,-91.107407,0
+2622,Picardy @ One Perkins Place - W,30.401039,-91.112556,0
+2625,Hennessey Blvd @ Brittany Dr - E,30.402946,-91.108551,0
+2631,Siegen Ln @ Siegen Plaza - N,30.386593,-91.063286,0
+2640,Woman's Way Circle,30.385569,-91.037773,0
+2649,Siegen Ln @ Reitz - S,30.387461,-91.063057,0
+2650,Siegen Ln @ Siegen Village - S,30.38534,-91.064339,0
+2651,Hwy 19 @ Jackson St - S,30.593084,-91.16729,0
+2652,Hwy 19 @ Adams - S,30.590094,-91.167847,0
+2653,Hwy 19 @ Groom Rd - S,30.588594,-91.168152,0
+2654,Hwy 19 @ Truman - S,30.586288,-91.168625,0
+2655,Hwy 19 @ Citi Trends Shopping Center - S,30.583412,-91.169128,0
+2656,Hwy 19 @ Executive Inn & Suites - S,30.580439,-91.169678,0
+2657,Hwy 19 @ Lavey Ln - S,30.575464,-91.170639,0
+2658,Hwy 19 @ Rafe Meyer Rd - S,30.567093,-91.172249,0
+2659,Hwy 19 @ Thomas Rd - S,30.558891,-91.173828,0
+2661,Hwy 19 @ Gore Rd - S,30.552038,-91.175179,0
+2662,Scotland Ave @ Progress Rd - S,30.53779,-91.177948,0
+2663,Scotland Ave @ Heron - N,30.539585,-91.177437,0
+2664,Hwy 19 @ Gore Rd - N,30.55175,-91.175011,0
+2665,Hwy 19 @ Sparta Ave - N,30.556385,-91.174164,0
+2666,Hwy 19 @ Thomas Rd - N,30.5585,-91.173698,0
+2667,Hwy 19 @ Rafe Meyer Rd - N,30.566608,-91.17215,0
+2668,Hwy 19 @ Lavey Ln - N,30.575073,-91.170555,0
+2669,Hwy 19 @ Ashley Furniture - N,30.578096,-91.169914,0
+2670,Hwy 19 @ Executive Inn & Suites - N,30.580223,-91.169525,0
+2671,Hwy 19 @ Coolidge St - N,30.582565,-91.169128,0
+2672,Hwy 19 @ Truman St - N,30.585838,-91.168472,0
+2673,Hwy 19 @ Churches Chicken - N,30.587191,-91.168228,0
+2674,Hwy 19 @ Groom Rd CVS - N,30.588779,-91.167961,0
+2684,Hwy 19 @ Scotland Apts - N,30.541943,-91.176994,0
+2685,Hwy 19 @ Blount Rd - S,30.543674,-91.176781,0
+2686,Hwy 19 @ Scotland Apts - S,30.542055,-91.177124,0
+2691,Baton Rouge Airport (BTR),30.53273,-91.156876,0
+2694,Bob Petit @ Nicholson Dr - S,30.396362,-91.17907,0
+2695,Bob Petit @ Nicholson Dr - N,30.396078,-91.179153,0
+2696,Mini Dome Outer Ring @ Swan Ave - E,30.522749,-91.186859,0
+2697,Mini Dome Outer Ring @ Swan Ave - N,30.522587,-91.186874,0
+2698,Lobdell @ Goodwood - S,30.440794,-91.110802,0
+2701,Winbourne @ LA Tech College - E,30.478315,-91.155815,0
+2702,Winbourne @ Acadian - W,30.478449,-91.156372,0
+2703,Winbourne @ 38th St - E,30.478399,-91.153053,0
+2704,Winbourne @ 38th St - W,30.478561,-91.152336,0
+2723,Summa Ave @ Peyton Dr - W,30.394962,-91.092766,0
+2724,Summa Ave @ Peyton Dr - E,30.394924,-91.092857,0
+2726,Florida Blvd @ Cloud Dr - E,30.450941,-91.131752,0
+2727,Burbank @ Elvin Dr - E,30.356995,-91.117142,0
+2728,Burbank @ SBRCA - E,30.355625,-91.114189,0
+2773,Goodwood @ EBR Parish Library WB - W,30.442463,-91.106934,0
+2774,Goodwood @ EBR Parish Library EB - E,30.44223,-91.106186,0
+2778,L'Auberge Casino,30.346792,-91.149788,0
+2780,Thomas Delpit @ Swart St - N,30.435141,-91.179314,0
+2781,Chippewa @ Scenic Hwy - W,30.473215,-91.168221,0
+2782,Highland @ Vicario - N,30.419401,-91.17704,0
+2783,Bluebonnet @ Burbank Albertsons - S,30.355713,-91.10952,0
+2784,Burbank @ Elvin Dr/Family Dollar - W,30.357168,-91.116791,0
+2785,Groom @ Walmart/Wendy's - E,30.58107,-91.128799,0
+2786,O'Neal Ln @ Bristoe Ave - N,30.435528,-91.0075,0
+2787,Coursey @ Jones Creek Rd - W,30.408831,-91.016853,0
+2788,O'Neal @ Centurion/Chase Bank - S,30.450871,-91.008064,0
+2790,Florida Blvd @ 7th St - W,30.449545,-91.183144,0
+2794,Jefferson @ Mcllhenny - S,30.42083,-91.100304,0
+2795,Old Hammond @ Old Hammond Square - E,30.430838,-91.085709,0
+2796,Lobdell @ Woodcrest Apt - S,30.463583,-91.11731,0
+2797,Drusilla @ Jefferson Hwy - N,30.418535,-91.089027,0
+2798,Florida Service Rd EB @ Centerpoint Thwy - W,30.46582,-91.016098,0
+2799,S Foster Dr @ Capital Heights - N,30.442476,-91.138382,0
+2800,Jesse N. Stone @ Roosevelt Steptoe - S,30.52372,-91.195297,0
+2801,Blue Grass @ Glen Oaks - N,30.512087,-91.130318,0
+2802,44th St @ Columbus Dunn - N,30.454657,-91.143738,0
+2803,44th St @ North St - S,30.453922,-91.143806,0
+2809,Florida @ Fairfax - E,30.45088,-91.133301,0
+2810,Essen Ln @ United Plaza Blvd - N,30.411907,-91.099876,0
+2811,Essen Ln @ United Plaza Blvd - S,30.41214,-91.100105,0
+2812,Gardere @ Ned - N,30.352594,-91.130005,0
+2813,Gardere @ Rush - S,30.350319,-91.133598,0
+2814,Gardere @ Rush - N,30.350224,-91.133583,0
+2815,Gardere @ Santa Rosa - N,30.347963,-91.137077,0
+2816,Gardere @ Santa Rosa - S,30.348169,-91.136917,0
+2817,Gardere @ Nicholson - N,30.346346,-91.139534,0
+2841,O'Donovan @ Hennessy - N,30.404589,-91.112282,0
+2842,Ned @ Anne Marie - W,30.353277,-91.130676,0
+2843,Ned @ Mariner - W,30.354317,-91.133202,0
+2844,Ned @ Port - W,30.355371,-91.135513,0
+2845,Port @ Stern - N,30.35634,-91.135002,0
+2846,Port @ GSRI - N,30.358347,-91.133751,0
+2847,GSRI @ Mast - E,30.358049,-91.132851,0
+2848,GSRI @ Starboard - E,30.3575,-91.131668,0
+2849,GSRI @ Gardere - E,30.35541,-91.127342,0
+2850,GSRI @ Seaboard - W,30.354761,-91.126137,0
+2851,Coy @ Broussard Apts - W,30.357714,-91.121597,0
+2852,GSRI @ Plantation Apts - N,30.355425,-91.121185,0
+2853,GSRI @ Jasper - E,30.354595,-91.124474,0
+2854,Terrace St @ 12th St - W,30.43646,-91.176445,0
+2856,Airway @ Sam's Club - S,30.461691,-91.096634,0
+2859,Hwy 19 @ Rosenwald Rd - S,30.531391,-91.185623,0
+2864,Lee Dr @ Bluebell Dr - N,30.405781,-91.149986,0
+2865,Lee Dr @ Bluebell Dr - S,30.405888,-91.15004,0
+2873,Blount Rd @ Leos Trailer Park,30.545082,-91.148941,0
+2874,Sorrel @ Choctaw,30.469614,-91.180931,0
+2875,Hwy 19 @ Fraternity - S,30.530226,-91.179398,0
+2876,Hwy 19 @ Cardinal - S,30.527672,-91.179901,0
+2877,Hwy 19 @ Robin St - S,30.525436,-91.180382,0
+2878,Scotland @ Swan - S,30.523916,-91.180656,0
+2879,Airway @ IDEA -N,30.463636,-91.098534,0
+2880,Airway @ IDEA -S,30.463768,-91.09864,0
+2881,Leon Netterville @ James J Prestage - N,30.521044,-91.196671,0
+2882,Leon Netterville @ Rosevelt Steptoe - N,30.523079,-91.19722,0
+2883,Rosevelt Stetoe @ Farm Rd - E,30.523369,-91.19545,0
+2884,Farm Rd @ F St - E,30.525909,-91.192543,0
+2887,Scenic Hwy @ Teal St - N,30.525759,-91.182098,0
+2888,Scenic Hwy @ Cardinal St - N,30.526995,-91.182854,0
+2889,Europe St. @ Saint Louis - W,30.441891,-91.187164,0
+2890,Scenic Hwy @ Baranco St - N,30.529276,-91.184227,0
+2891,Scenic Hwy @ Rosenwald Rd - N,30.531124,-91.185303,0
+2893,Scenic Hwy @ Mills Ave - N,30.532845,-91.186378,0
+2895,Blount Rd @ Kingfisher Ave - E,30.540091,-91.191864,0
+2896,Blount Rd @ Ave D - E,30.539845,-91.19352,0
+2897,Blount Rd @ Ave K - W,30.539701,-91.199875,0
+2899,Crestview Ave @ Ave K - W,30.543154,-91.200005,0
+2900,Bon Crest Ave @ Ave F - E,30.543957,-91.196693,0
+2901,Ave F @ Rivercrest Ave - S,30.541708,-91.195946,0
+2902,Ave F @ Blount - S,30.539986,-91.195328,0
+2903,Blount Rd @ Canada St - E,30.540836,-91.189552,0
+2904,Blount Rd @ Tallow Dr - E,30.541649,-91.185097,0
+2905,Blount Rd @ Zerlee St - E,30.543041,-91.177826,0
+2906,Elm Grove Garden @ Elm Grove Park - N,30.539238,-91.169472,0
+2907,Blount Rd @ Scotland Square Apts.,30.544859,-91.166267,0
+2908,Blount Rd @ Cypress Glen Ave - E,30.544598,-91.152313,0
+2909,Blount @ Divincenti - E,30.544579,-91.145737,0
+2910,Plank Rd @ Coca-Cola Botling Co - S,30.535219,-91.14048,0
+2911,Plank Rd @ All Star Chevolet - S,30.533407,-91.141273,0
+2926,Lanier Dr @ Richmar Ave - S,30.508852,-91.108185,0
+2927,Lanier Dr @ Maplewood Ave - S,30.506561,-91.108078,0
+2928,Lanier Dr @ Glen Oaks Elementary - S,30.504013,-91.107956,0
+2929,Lanier Dr @Greenwell St - S,30.50197,-91.107826,0
+2930,Greenwell St @ Johnette Dr - W,30.501772,-91.11084,0
+2932,Greenwell St @ Quida Mae Dr - E,30.502329,-91.130196,0
+2933,Greenwell St @ Urban Restoration Apartments - E,30.502386,-91.128311,0
+2934,Greenwell St @ Silverleaf Ave - E,30.502392,-91.125443,0
+2935,Greenwell St @ Landis Dr - E,30.501411,-91.121201,0
+2936,Greenwell St @ Trailer Park - E,30.501373,-91.118744,0
+2937,Greenwell St @ Denova St - E,30.501421,-91.11731,0
+2939,Greenwell St @ Johnette Dr - E,30.50168,-91.111076,0
+2940,Greenwell St @ Lanier Dr - E,30.501831,-91.107933,0
+2941,Lanier Dr @ Glen Oaks Elementary - N,30.504227,-91.107826,0
+2942,Lanier Dr @ Maplewood Ave - N,30.506403,-91.107941,0
+2943,Lanier Dr @ Richmar Ave - N,30.508795,-91.108055,0
+2959,Plank Rd @ Martin Rd - N,30.528648,-91.142662,0
+2961,Plank Rd @ All Star Chevolet - N,30.533287,-91.140991,0
+2962,Plank Rd @ Coca-Cola Botling Co - N,30.5348,-91.140305,0
+2963,Blount @ Divincenti - W,30.54472,-91.145546,0
+2964,Blount Rd @ Leos Trailer Park - W,30.544821,-91.148888,0
+2965,Blount Rd @ Cypress Glen Ave - W,30.544748,-91.152351,0
+2966,Blount Rd @ Scotland Square Apts.,30.544962,-91.165962,0
+2967,Elm Grove Garden @ Elm Grove Park - S,30.539474,-91.16964,0
+2968,Ave K @ Mills Ave - S,30.532566,-91.199768,0
+2970,Oak Villa Blvd @ Syble Dr - N,30.479977,-91.089592,0
+2971,Oak Villa Blvd @ Greenwell Springs Rd - N,30.482374,-91.089714,0
+2972,Greenwell Springs Rd @ Courtland Dr - E,30.484116,-91.087524,0
+2973,Greenwell Springs Rd @ Monterrey Dr - E,30.484779,-91.084976,0
+2974,Greenwell Springs Rd @ Oak Forest Ave - E,30.485794,-91.081444,0
+2975,Greenwell Springs Rd @ Aletha Dr - E,30.48955,-91.074562,0
+2976,Greenwell Springs Rd @  Ridgemont Dr - E,30.490919,-91.071472,0
+2977,Greenwell Springs Rd @  Evan Brooks Dr - E,30.492268,-91.068062,0
+2978,Greenwell Springs Rd @  Lassen Dr - E,30.493296,-91.065277,0
+2979,Greenwell Springs Rd @  N Sherwood Forest Blvd - E,30.493635,-91.060959,0
+2980,N Sherwood Forest Blvd @ Catalina Ave - S,30.484146,-91.058723,0
+2981,N Sherwood Forest Blvd @ BREC Park - S,30.476908,-91.058304,0
+2982,S Sherwood Forest Blvd @ Darryl - S,30.471125,-91.058235,0
+2983,S Sherwood Forest Blvd @ Stan Ave - S,30.469912,-91.058235,0
+2984,S Sherwood Forest Blvd @ Charlie Dr - S,30.468269,-91.05822,0
+2985,S Sherwood Forest Blvd @ Catalpa - S,30.4657,-91.05825,0
+2986,S Sherwood Forest Blvd @ Glenda - S,30.462332,-91.058266,0
+2987,S Sherwood Forest Blvd @ Florida/Fancy Cuts - S,30.460461,-91.05825,0
+2988,N Sherwood Forest Blvd @ Catalina Ave - N,30.483929,-91.058502,0
+2989,N Sherwood Forest Blvd @ Greenwell Springs Rd - N,30.49259,-91.060669,0
+2990,Greenwell Springs Rd @  Lassen Dr - W,30.493603,-91.065002,0
+2991,Greenwell Springs Rd @  Evan Brooks Dr - W,30.492601,-91.067909,0
+2992,Greenwell Springs Rd @  Ridgemont Dr - W,30.491201,-91.07151,0
+2993,Greenwell Springs Rd @ Aletha Dr - W,30.489958,-91.074417,0
+2994,Greenwell Springs Rd @ Oak Forest Ave - W,30.486078,-91.081352,0
+2995,Greenwell Springs Rd @ Monterrey Dr - W,30.485371,-91.083611,0
+2996,Greenwell Springs Rd @ Courtland Dr - W,30.484283,-91.087601,0
+2997,Oak Villa Blvd @ Greenwell Sptings Rd - S,30.482462,-91.089973,0
+2998,Oak Villa Blvd @ Syble Dr - S,30.480095,-91.089867,0
+3000,3rd St @ Spanish Town Rd - S,30.454762,-91.18856,0
+3003,Florida @ Lafayette St - E,30.449238,-91.189552,0
+3004,Florida @ 3rd St - E,30.449303,-91.188362,0
+3005,Burbank Dr @ Parker Blvd - N,30.401653,-91.176315,0
+3006,Burbank Dr @ Milford Ave - N,30.402853,-91.178711,0
+3009,Essen Ln @ Albertsons - N,30.396175,-91.108711,0
+3010,Essen Ln @ Picardy Ave - N,30.398344,-91.107368,0
+3011,Hennessey Blvd @ Brittany Dr - W,30.40296,-91.108078,0
+3014,W Roosevelt St @ Illinois St - W,30.421553,-91.189865,0
+3015,W Roosevelt St @ Indiana St - W,30.421513,-91.191689,0
+3016,Indiana St @ Daniel Webster St - S,30.420853,-91.191818,0
+3017,Daniel Webster St @ River Rd - W,30.420805,-91.193466,0
+3018,W Roosevelt St @ Indiana St - E,30.421404,-91.191856,0
+3019,W Roosevelt St @ Illinois St - E,30.421459,-91.190025,0
+3020,W Roosevelt St @ Nicholson Dr - E,30.421549,-91.187752,0
+3021,Burbank Dr @ Gardere Ln - W,30.359814,-91.12265,0
+3022,Burbank Dr @ Staring Ln - W,30.361322,-91.125809,0
+3023,Staring Ln @ Bayou Fountain Ave - N,30.3631,-91.126442,0
+3024,Staring Ln @ Stoney Creek Ave - N,30.36507,-91.125175,0
+3025,Staring Ln @ Stoney Creek Ave - S,30.36549,-91.125305,0
+3026,Staring Ln @ Bayou Fountain Ave - S,30.36352,-91.126549,0
+3027,Burbank Dr @ Staring Ln - E,30.361135,-91.126045,0
+3028,Burbank Dr @ Gardere Ln - E,30.359806,-91.123093,0
+3031,Jefferson Hwy @ Parkforest Dr - W,30.394745,-91.044739,0
+3032,Jefferson Hwy @ Parkview Church Rd - W,30.395912,-91.04969,0
+3037,Jefferson Hwy @ Parkview Church Rd - E,30.395782,-91.049965,0
+3038,Jefferson Hwy @ Parkforest Dr - E,30.394602,-91.045364,0
+3041,Coursey Blvd @ Sherwood Commons - W,30.412045,-91.055374,0
+3042,Coursey Blvd @ Royal Ascot Ave - W,30.414944,-91.057747,0
+3043,Coursey Blvd @ Coursey Ct - W,30.415573,-91.062317,0
+3044,Coursey Blvd @ Fresh Pickins - W,30.417698,-91.065697,0
+3045,Coursey Blvd @ Cedarcrest Ave - W,30.41769,-91.067482,0
+3048,Airline Hwy @ Commonwealth Blvd - S,30.429832,-91.079597,0
+3050,Coursey Blvd @ Home Depot - E,30.417479,-91.066025,0
+3051,Coursey Blvd @ We Heck Ct - E,30.415613,-91.062752,0
+3052,Coursey Blvd @ Southpark Dr - E,30.414814,-91.058319,0
+3053,Coursey Blvd @ Sherwood Commons - E,30.412226,-91.055824,0
+3054,Alabama Ave @ Jefferson St - N,30.590519,-91.165123,0
+3055,Alabama Ave @ Baker Blvd - N,30.594101,-91.164368,0
+3056,Baker Blvd @ Hwy 19 - W,30.594509,-91.166473,0
+3057,McCleland Dr @ LSU Urgent Care - S,30.507624,-91.135612,0
+3058,Glen Oaks Dr @ Ash Dr - W,30.511862,-91.132431,0
+3059,Glen Oaks Dr @ McClelland Dr - W,30.511557,-91.135635,0
+3061,Essen Ln @ Albertsons - S,30.396801,-91.108742,0
+3062,Blount Rd @ Ave I - W,30.539829,-91.198059,0
+3063,Ave K @ Elmer Ave - S,30.538027,-91.199974,0
+3064,Ave K @ Woodcock St - S,30.536198,-91.19989,0
+3065,Ave K @ Woodpecker St - S,30.53442,-91.199821,0
+3066,Mills @ Ave E - E,30.53273,-91.194023,0
+3069,Mills Ave @ Ave B - E,30.532816,-91.191299,0
+3070,Mills Ave @ Merganzer Ave - E,30.532879,-91.18869,0
+3071,Ochsner Medical Complex,30.386948,-91.076721,0
+3072,Veterans Memorial Blvd @ Juvenile Court - N,30.525217,-91.160889,0
+3073,Veterans Memorial Blvd @ Juvenile Court - S,30.525639,-91.161278,0
+3083,Mickens @ Hooper - N,30.525658,-91.126732,0
+3084,Hooper @ Mickens - S,30.525625,-91.126839,0
+3085,Hooper @ Sharon Hills - W,30.526239,-91.130592,0
+3086,Hooper @ Sharon Hills - E,30.525967,-91.130966,0
+3087,Hooper @ Leadership Academy - W,30.525888,-91.133774,0
+3088,Hooper @ Leadership Academy - E,30.525652,-91.133789,0
+3089,Hooper @ McClelland - W,30.525288,-91.137199,0
+3090,Hooper @ McClelland - E,30.525072,-91.137184,0
+3093,Hooper @ Hooper Pointe - W,30.521954,-91.14183,0
+3094,Hooper @ Hooper Pointe - E,30.521711,-91.142105,0
+3095,Hooper @ Plank - E,30.521669,-91.14402,0
+3096,Hooper @ Plank - W,30.52187,-91.14473,0
+3097,Mickens @ Caprice - E,30.518232,-91.121178,0
+3098,Mickens @ Caprice - W,30.518391,-91.120636,0
+3100,OLOL Childrens Hospital - E,30.401762,-91.098824,0
+3109,Government @ Pierce - E,30.44511,-91.116516,0
+3110,Government @ 15th - E,30.444107,-91.173332,0
+3112,Government @ Eugene -W,30.444109,-91.159943,0
+3113,Government @ Moore - W,30.444614,-91.141525,0
+3114,Government @ Steele - W,30.444351,-91.150818,0
+3115,Government @ Drehr - E,30.443857,-91.163879,0
+3116,Government @ Moore - E,30.444408,-91.141678,0
+3117,Government @ Delphine - W,30.44397,-91.16394,0
+3118,Government @ Community College - E,30.444441,-91.135941,0
+3119,Government @ Audobon - E,30.445028,-91.120399,0
+3120,Government @ Park - E,30.443748,-91.169342,0
+3121,Government @ Steele - E,30.444166,-91.150841,0
