@@ -1,6 +1,6 @@
-# KNIME-Workbook-with-Geospatial-Analytics-Extension-for-KNIME
-## Computational Methods and GIS Applications in Social Science,Third Edition , CRC Press ## 
-**Authors: Fahui Wang, Lingbo Liu**
+# KNIME-Lab-Manual-with-Geospatial-Analytics-Extension-for-KNIME
+## Computational Methods and GIS Applications in Social Science, Third Edition, CRC Press ## 
+**Authors: Lingbo Liu,Fahui Wang**
 
 This data repository is for the KNIME Lab Manual
 The second edition of this textbook is:
@@ -10,5 +10,5 @@ This project is supported by the Center for Geographic Analysis, and partly spon
 
 
 
-![image](https://user-images.githubusercontent.com/39640889/225999851-0a0fea2c-78b4-423a-ac5e-29385ed58c1c.png)
+![image](https://github.com/UrbanGISer/Computational-Methods-and-GIS-Applications-in-Social-Science/assets/39640889/b0e8283c-7fed-4e23-bd71-3f6effe3ed4e)
 
