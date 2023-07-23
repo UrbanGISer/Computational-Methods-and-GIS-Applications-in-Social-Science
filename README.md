@@ -11,3 +11,5 @@ https://www.taylorfrancis.com/books/mono/10.1201/9781003292302/computational-met
 Fahui Wang; Lingbo Liu, 2023, "Datasets for Computational Methods and GIS Applications in Social Science", https://doi.org/10.7910/DVN/4CM7V4, Harvard Dataverse
 
 If you encounter any problems while using the data or tool in the Main book or KNIME Lab Manual, please don't hesitate to create an issue.
+
+![image](https://github.com/UrbanGISer/Computational-Methods-and-GIS-Applications-in-Social-Science/assets/39640889/9ed079d1-88fe-434a-afce-710969c038ec)
