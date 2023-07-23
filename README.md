@@ -12,4 +12,5 @@ Fahui Wang; Lingbo Liu, 2023, "Datasets for Computational Methods and GIS Applic
 
 If you encounter any problems while using the data or tool in the Main book or KNIME Lab Manual, please don't hesitate to create an issue.
 
-![image](https://github.com/UrbanGISer/Computational-Methods-and-GIS-Applications-in-Social-Science/assets/39640889/9ed079d1-88fe-434a-afce-710969c038ec)
+![image](https://github.com/UrbanGISer/Computational-Methods-and-GIS-Applications-in-Social-Science/assets/39640889/b0e8283c-7fed-4e23-bd71-3f6effe3ed4e)
+
